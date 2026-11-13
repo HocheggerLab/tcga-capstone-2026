@@ -1,0 +1,254 @@
+{
+ "05fb1b6f55673a99": [
+  "MDM2",
+  "BRCA"
+ ],
+ "0bcf23d56b6ca773": [
+  "ZMAT3",
+  "LUSC"
+ ],
+ "14d673fa761c7b47": [
+  "TOP2A",
+  "BRCA"
+ ],
+ "161291fe0b9fafc5": [
+  "TP53I3",
+  "LIHC"
+ ],
+ "179983b9ca3aae6d": [
+  "BAX",
+  "LIHC"
+ ],
+ "18b737de7c7fe73e": [
+  "MDM2",
+  "LUAD"
+ ],
+ "1ae9d9efe6da8832": [
+  "RPS27L",
+  "LUSC"
+ ],
+ "1c01f88983642625": [
+  "RPS27L",
+  "STAD"
+ ],
+ "1f774eba7f4b2e4f": [
+  "ZMAT3",
+  "LUAD"
+ ],
+ "208416da36474dfb": [
+  "AURKA",
+  "STAD"
+ ],
+ "2225a10b52f9eeaf": [
+  "CCNB1",
+  "LUAD"
+ ],
+ "236bff1b746ba885": [
+  "FOXM1",
+  "STAD"
+ ],
+ "2a2727ecc1fa322d": [
+  "MDM2",
+  "LIHC"
+ ],
+ "365af76e1d6744da": [
+  "PLK1",
+  "LUAD"
+ ],
+ "383a675dc1352260": [
+  "DDB2",
+  "PAAD"
+ ],
+ "38a1cf54fd4189f3": [
+  "TP53I3",
+  "BRCA"
+ ],
+ "3b4332fac79ca154": [
+  "ZMAT3",
+  "BRCA"
+ ],
+ "3e1283d6da5b6ce1": [
+  "AURKA",
+  "COAD"
+ ],
+ "40f250fe3bceb355": [
+  "DDB2",
+  "COAD"
+ ],
+ "434904e63e867b09": [
+  "RPS27L",
+  "LIHC"
+ ],
+ "489d9fb80ed20614": [
+  "PLK1",
+  "LIHC"
+ ],
+ "524e96fe27c45534": [
+  "AURKA",
+  "BRCA"
+ ],
+ "5bfc411dd29b384f": [
+  "PLK1",
+  "STAD"
+ ],
+ "6939ea48e38b5c09": [
+  "FOXM1",
+  "PRAD"
+ ],
+ "6bd64936c73db83d": [
+  "CCNB1",
+  "PRAD"
+ ],
+ "6fcb7ba7f05ac92b": [
+  "TOP2A",
+  "COAD"
+ ],
+ "78e21b97c3374a55": [
+  "ZMAT3",
+  "STAD"
+ ],
+ "7ddfb6bc640ac0df": [
+  "DDB2",
+  "PRAD"
+ ],
+ "7f15e61195209665": [
+  "ZMAT3",
+  "LIHC"
+ ],
+ "83000b7294cb0225": [
+  "FOXM1",
+  "COAD"
+ ],
+ "8672cf13cf95d7fc": [
+  "DDB2",
+  "LIHC"
+ ],
+ "88e1da41276b3c04": [
+  "BAX",
+  "STAD"
+ ],
+ "8c2c89b0a7d23b9d": [
+  "TOP2A",
+  "LUAD"
+ ],
+ "987d23ca3952896d": [
+  "DDB2",
+  "BRCA"
+ ],
+ "9900063ccf93e58d": [
+  "DDB2",
+  "LUSC"
+ ],
+ "998896f4f9ac659c": [
+  "BAX",
+  "PAAD"
+ ],
+ "99bb62e3b76a31b2": [
+  "PLK1",
+  "COAD"
+ ],
+ "9f304d1fb777ba36": [
+  "AEN",
+  "LUSC"
+ ],
+ "a0a0125b21c32294": [
+  "CCNB1",
+  "LIHC"
+ ],
+ "a0e1cb86e53219db": [
+  "AEN",
+  "PRAD"
+ ],
+ "a22298063b0c271e": [
+  "BAX",
+  "LUAD"
+ ],
+ "a462246cfce6a72c": [
+  "TP53I3",
+  "PRAD"
+ ],
+ "a5a5867691486212": [
+  "ZMAT3",
+  "COAD"
+ ],
+ "acbd78d2be84c123": [
+  "RPS27L",
+  "PRAD"
+ ],
+ "b4ddabdc045e1eea": [
+  "TOP2A",
+  "PAAD"
+ ],
+ "b88db5f4ca7a64fb": [
+  "MDM2",
+  "PAAD"
+ ],
+ "be72a6d93b3f8ddf": [
+  "RPS27L",
+  "PAAD"
+ ],
+ "c5c6bcf892224b4e": [
+  "AEN",
+  "BRCA"
+ ],
+ "c6413dc3c620724b": [
+  "MDM2",
+  "LUSC"
+ ],
+ "ca0c0f84a4ca16dd": [
+  "AURKA",
+  "PAAD"
+ ],
+ "caae98862a2a5ba0": [
+  "AEN",
+  "STAD"
+ ],
+ "ce05e67b9b42d30e": [
+  "AEN",
+  "LUAD"
+ ],
+ "ce89fb2f01c3544e": [
+  "CCNB1",
+  "PAAD"
+ ],
+ "d423c44af4e940e2": [
+  "CCNB1",
+  "LUSC"
+ ],
+ "dc0a83bb35af9e4d": [
+  "CCNB1",
+  "COAD"
+ ],
+ "e395750b83724bb7": [
+  "TOP2A",
+  "LUSC"
+ ],
+ "e44bdce61a7c416a": [
+  "FOXM1",
+  "BRCA"
+ ],
+ "ec62699f924da9f5": [
+  "AURKA",
+  "PRAD"
+ ],
+ "eeec4847b1b9e4db": [
+  "BAX",
+  "LUSC"
+ ],
+ "f3d87c455ecef88b": [
+  "TP53I3",
+  "LUAD"
+ ],
+ "f4bf99a2afcf8d56": [
+  "FOXM1",
+  "PAAD"
+ ],
+ "fad7238cb262ab43": [
+  "TP53I3",
+  "STAD"
+ ],
+ "fb7c1ce192a3234f": [
+  "PLK1",
+  "PRAD"
+ ]
+}

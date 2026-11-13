@@ -1,0 +1,199 @@
+sampleID,primary disease or tissue,sample_type_code,days_to_last_followup,vital_status
+TCGA-XN-A8T3-01,pancreatic adenocarcinoma,01,951.0,Alive
+TCGA-HZ-A49I-01,PANCREATIC ADENOCARCINOMA,01,--,Dead
+TCGA-XD-AAUG-01,PANCREATIC ADENOCARCINOMA,01,--,Alive
+TCGA-3A-A9IV-01,PANCREATIC ADENOCARCINOMA,01,1103.0,Alive
+TCGA-HZ-7924-01,PANCREATIC ADENOCARCINOMA,01,840.0,Alive
+TCGA-2J-AABA-01,  Pancreatic Adenocarcinoma ,01,not reported,Dead
+TCGA-2J-AABF-01,pancreatic adenocarcinoma,01,691.0,Dead
+TCGA-2L-AAQI-01,pancreatic adenocarcinoma,01,103.0,Dead
+TCGA-HV-A5A4-01,  Pancreatic Adenocarcinoma ,01,not reported,Alive
+TCGA-IB-7644-01,PANCREATIC ADENOCARCINOMA,01,394.0,Dead
+TCGA-IB-AAUO-01,PANCREATIC ADENOCARCINOMA,01,239.0,Dead
+TCGA-HV-AA8X-01,  Pancreatic Adenocarcinoma ,01,532.0,Dead
+TCGA-IB-7645-01,pancreatic adenocarcinoma,01,1502.0,Dead
+TCGA-IB-AAUW-01,  Pancreatic Adenocarcinoma ,01,not reported,Dead
+TCGA-3A-A9IC-01,PANCREATIC ADENOCARCINOMA,01,738.0,Dead
+TCGA-FB-A7DR-01,pancreatic adenocarcinoma,01,353.0,Dead
+TCGA-HZ-8001-01,PANCREATIC ADENOCARCINOMA,01,,Alive
+TCGA-XD-AAUH-01,pancreatic adenocarcinoma,01,395.0,Alive
+TCGA-US-A774-01,PANCREATIC ADENOCARCINOMA,01,695.0,Dead
+TCGA-IB-7646-01,  Pancreatic Adenocarcinoma ,01,145.0,Dead
+TCGA-F2-A8YN-01,pancreatic adenocarcinoma,01,517.0,Alive
+TCGA-FB-A545-01,pancreatic adenocarcinoma,01,732.0,Dead
+TCGA-HZ-8005-01,PANCREATIC ADENOCARCINOMA,01,,Dead
+TCGA-HV-A5A5-01,PANCREATIC ADENOCARCINOMA,01,--,Alive
+TCGA-FB-A78T-01,PANCREATIC ADENOCARCINOMA,01,,Dead
+TCGA-2L-AAQJ-01,  Pancreatic Adenocarcinoma ,01,394.0,Dead
+TCGA-HZ-A9TJ-01,pancreatic adenocarcinoma,01,--,Alive
+TCGA-3A-A9IZ-01,  Pancreatic Adenocarcinoma ,01,308.0,Dead
+TCGA-LB-A9Q5-01,PANCREATIC ADENOCARCINOMA,01,,Dead
+TCGA-2L-AAQE-01,PANCREATIC ADENOCARCINOMA,01,684.0,Dead
+TCGA-3A-A9I7-01,PANCREATIC ADENOCARCINOMA,01,1323.0,Alive
+TCGA-IB-7889-01,PANCREATIC ADENOCARCINOMA,01,481.0,Dead
+TCGA-IB-A5ST-01,  Pancreatic Adenocarcinoma ,01,635.0,Alive
+TCGA-US-A77E-01,PANCREATIC ADENOCARCINOMA,01,,Dead
+TCGA-2L-AAQL-01,PANCREATIC ADENOCARCINOMA,01,292.0,Dead
+TCGA-HV-A5A3-01,pancreatic adenocarcinoma,01,not reported,Dead
+TCGA-HZ-7922-01,pancreatic adenocarcinoma,01,4.0,Alive
+TCGA-US-A77G-01,pancreatic adenocarcinoma,01,12.0,Dead
+TCGA-F2-A7TX-01,PANCREATIC ADENOCARCINOMA,01,95.0,Dead
+TCGA-3A-A9J0-01,PANCREATIC ADENOCARCINOMA,01,not reported,Alive
+TCGA-HZ-8005-01,PANCREATIC ADENOCARCINOMA,01,,Dead
+TCGA-US-A77J-01,  Pancreatic Adenocarcinoma ,01,568.0,Dead
+TCGA-3A-A9I5-01,  Pancreatic Adenocarcinoma ,01,1794.0,Alive
+TCGA-H6-8124-01,pancreatic adenocarcinoma,01,392.0,Alive
+TCGA-XD-AAUG-01,PANCREATIC ADENOCARCINOMA,01,--,Alive
+TCGA-FB-A4P6-01,PANCREATIC ADENOCARCINOMA,01,767.0,Alive
+TCGA-F2-7273-01,  Pancreatic Adenocarcinoma ,01,592.0,Dead
+TCGA-IB-A5SQ-01,PANCREATIC ADENOCARCINOMA,01,219.0,Dead
+TCGA-2J-AAB1-01,PANCREATIC ADENOCARCINOMA,01,,Dead
+TCGA-XD-AAUI-01,  Pancreatic Adenocarcinoma ,01,366.0,Dead
+TCGA-2J-AABU-01,PANCREATIC ADENOCARCINOMA,01,277.0,Dead
+TCGA-IB-7897-01,pancreatic adenocarcinoma,01,486.0,Dead
+TCGA-IB-7888-01,  Pancreatic Adenocarcinoma ,01,--,Dead
+TCGA-H8-A6C1-01,PANCREATIC ADENOCARCINOMA,01,671.0,Alive
+TCGA-LB-A7SX-01,pancreatic adenocarcinoma,01,393.0,Dead
+TCGA-IB-A7M4-01,PANCREATIC ADENOCARCINOMA,01,483.0,Alive
+TCGA-IB-A7LX-01,  Pancreatic Adenocarcinoma ,01,250.0,Dead
+TCGA-HZ-7925-01,pancreatic adenocarcinoma,01,614.0,Dead
+TCGA-FB-AAPP-01,  Pancreatic Adenocarcinoma ,01,485.0,Dead
+TCGA-L1-A7W4-01,PANCREATIC ADENOCARCINOMA,01,278.0,Dead
+TCGA-IB-7652-01,PANCREATIC ADENOCARCINOMA,01,,Alive
+TCGA-2J-AABA-01,  Pancreatic Adenocarcinoma ,01,not reported,Dead
+TCGA-HV-A5A4-01,  Pancreatic Adenocarcinoma ,01,not reported,Alive
+TCGA-HZ-A4BH-01,pancreatic adenocarcinoma,01,194.0,Alive
+TCGA-IB-A5SO-01,pancreatic adenocarcinoma,01,365.0,Dead
+TCGA-FB-AAQ1-01,PANCREATIC ADENOCARCINOMA,01,123.0,Dead
+TCGA-HZ-8519-01,PANCREATIC ADENOCARCINOMA,01,--,Alive
+TCGA-IB-AAUS-01,pancreatic adenocarcinoma,01,225.0,Alive
+TCGA-F2-A44G-01,pancreatic adenocarcinoma,01,233.0,Dead
+TCGA-HZ-7919-01,  Pancreatic Adenocarcinoma ,01,not reported,Dead
+TCGA-3A-A9IN-01,pancreatic adenocarcinoma,01,2084.0,Alive
+TCGA-2J-AAB1-01,PANCREATIC ADENOCARCINOMA,01,,Dead
+TCGA-IB-AAUP-01,pancreatic adenocarcinoma,01,,Alive
+TCGA-H6-8124-11,pancreatic adenocarcinoma,11,392.0,Alive
+TCGA-IB-7647-01,PANCREATIC ADENOCARCINOMA,01,666.0,Dead
+TCGA-HZ-7923-01,  Pancreatic Adenocarcinoma ,01,314.0,Alive
+TCGA-HV-A7OP-01,PANCREATIC ADENOCARCINOMA,01,978.0,Alive
+TCGA-HZ-7926-01,  Pancreatic Adenocarcinoma ,01,518.0,Dead
+TCGA-HZ-A4BK-01,  Pancreatic Adenocarcinoma ,01,657.0,Alive
+TCGA-HZ-8003-01,  Pancreatic Adenocarcinoma ,01,596.0,Dead
+TCGA-S4-A8RO-01,pancreatic adenocarcinoma,01,525.0,Alive
+TCGA-HZ-7289-01,PANCREATIC ADENOCARCINOMA,01,661.0,Dead
+TCGA-HV-A5A3-01,pancreatic adenocarcinoma,01,not reported,Dead
+TCGA-3A-A9IS-01,pancreatic adenocarcinoma,01,998.0,Alive
+TCGA-2J-AABT-01,  Pancreatic Adenocarcinoma ,01,319.0,Alive
+TCGA-S4-A8RM-01,PANCREATIC ADENOCARCINOMA,01,737.0,Alive
+TCGA-HZ-8002-01,pancreatic adenocarcinoma,01,--,Dead
+TCGA-IB-A5SP-01,  Pancreatic Adenocarcinoma ,01,482.0,Alive
+TCGA-FB-AAPQ-01,PANCREATIC ADENOCARCINOMA,01,1130.0,Dead
+TCGA-YY-A8LH-01,  Pancreatic Adenocarcinoma ,01,2016.0,Alive
+TCGA-HZ-A9TJ-06,  Pancreatic Adenocarcinoma ,06,603.0,Alive
+TCGA-IB-AAUW-01,  Pancreatic Adenocarcinoma ,01,not reported,Dead
+TCGA-IB-7651-01,  Pancreatic Adenocarcinoma ,01,603.0,Dead
+TCGA-2J-AAB4-01,pancreatic adenocarcinoma,01,729.0,Alive
+TCGA-F2-7276-01,PANCREATIC ADENOCARCINOMA,01,216.0,Dead
+TCGA-HZ-8317-01,  Pancreatic Adenocarcinoma ,01,--,Dead
+TCGA-FB-AAPS-01,pancreatic adenocarcinoma,01,228.0,Alive
+TCGA-HZ-8638-01,PANCREATIC ADENOCARCINOMA,01,151.0,Dead
+TCGA-3A-A9IU-01,  Pancreatic Adenocarcinoma ,01,458.0,Dead
+TCGA-F2-A44H-01,  Pancreatic Adenocarcinoma ,01,586.0,Alive
+TCGA-FB-AAPY-01,PANCREATIC ADENOCARCINOMA,01,1059.0,Dead
+TCGA-2J-AABK-01,pancreatic adenocarcinoma,01,not reported,Alive
+TCGA-IB-A6UG-01,pancreatic adenocarcinoma,01,41.0,Dead
+TCGA-IB-AAUU-01,PANCREATIC ADENOCARCINOMA,01,--,Alive
+TCGA-HZ-A8P0-01,PANCREATIC ADENOCARCINOMA,01,0.0,Alive
+TCGA-IB-AAUV-01,pancreatic adenocarcinoma,01,404.0,Alive
+TCGA-3E-AAAZ-01,  Pancreatic Adenocarcinoma ,01,,Dead
+TCGA-HZ-A77Q-01,  Pancreatic Adenocarcinoma ,01,33.0,Alive
+TCGA-HZ-A49H-01,  Pancreatic Adenocarcinoma ,01,491.0,Alive
+TCGA-2L-AAQM-01,pancreatic adenocarcinoma,01,1383.0,Alive
+TCGA-3A-A9IR-01,PANCREATIC ADENOCARCINOMA,01,1542.0,Alive
+TCGA-US-A776-01,pancreatic adenocarcinoma,01,1216.0,Alive
+TCGA-YB-A89D-11,  Pancreatic Adenocarcinoma ,11,350.0,Alive
+TCGA-IB-7893-01,PANCREATIC ADENOCARCINOMA,01,--,Dead
+TCGA-IB-AAUN-01,  Pancreatic Adenocarcinoma ,01,not reported,Dead
+TCGA-FB-AAPU-01,  Pancreatic Adenocarcinoma ,01,381.0,Dead
+TCGA-IB-AAUR-01,PANCREATIC ADENOCARCINOMA,01,338.0,Alive
+TCGA-2J-AAB6-01,  Pancreatic Adenocarcinoma ,01,293.0,Dead
+TCGA-HZ-7918-01,pancreatic adenocarcinoma,01,969.0,Alive
+TCGA-HZ-7920-01,PANCREATIC ADENOCARCINOMA,01,236.0,Dead
+TCGA-2L-AAQA-01,  Pancreatic Adenocarcinoma ,01,143.0,Dead
+TCGA-3E-AAAY-01,pancreatic adenocarcinoma,01,2285.0,Alive
+TCGA-YB-A89D-01,PANCREATIC ADENOCARCINOMA,01,350.0,Alive
+TCGA-IB-7885-01,  Pancreatic Adenocarcinoma ,01,1257.0,Alive
+TCGA-Z5-AAPL-01,PANCREATIC ADENOCARCINOMA,01,467.0,Alive
+TCGA-HV-A5A3-11,PANCREATIC ADENOCARCINOMA,11,128.0,Dead
+TCGA-IB-8127-01,PANCREATIC ADENOCARCINOMA,01,--,Alive
+TCGA-S4-A8RP-01,  Pancreatic Adenocarcinoma ,01,702.0,Dead
+TCGA-IB-AAUM-01,pancreatic adenocarcinoma,01,8.0,Alive
+TCGA-IB-7886-01,PANCREATIC ADENOCARCINOMA,01,123.0,Dead
+TCGA-HV-A5A6-01,pancreatic adenocarcinoma,01,2036.0,Dead
+TCGA-US-A779-01,  Pancreatic Adenocarcinoma ,01,511.0,Dead
+TCGA-HZ-A8P1-01,pancreatic adenocarcinoma,01,7.0,Alive
+TCGA-LB-A9Q5-01,PANCREATIC ADENOCARCINOMA,01,,Dead
+TCGA-H6-A45N-11,  Pancreatic Adenocarcinoma ,11,421.0,Dead
+TCGA-F2-6879-01,PANCREATIC ADENOCARCINOMA,01,not reported,Dead
+TCGA-IB-AAUQ-01,  Pancreatic Adenocarcinoma ,01,,Dead
+TCGA-PZ-A5RE-01,PANCREATIC ADENOCARCINOMA,01,470.0,Dead
+TCGA-HZ-7919-01,  Pancreatic Adenocarcinoma ,01,not reported,Dead
+TCGA-M8-A5N4-01,pancreatic adenocarcinoma,01,584.0,Alive
+TCGA-2J-AABP-01,PANCREATIC ADENOCARCINOMA,01,463.0,Alive
+TCGA-3A-A9IB-01,  Pancreatic Adenocarcinoma ,01,224.0,Dead
+TCGA-FB-AAQ2-01,pancreatic adenocarcinoma,01,153.0,Dead
+TCGA-HZ-8315-01,pancreatic adenocarcinoma,01,not reported,Dead
+TCGA-FB-A5VM-01,  Pancreatic Adenocarcinoma ,01,not reported,Dead
+TCGA-FB-A4P5-01,  Pancreatic Adenocarcinoma ,01,179.0,Dead
+TCGA-3A-A9I9-01,pancreatic adenocarcinoma,01,634.0,Dead
+TCGA-2J-AABH-01,  Pancreatic Adenocarcinoma ,01,1287.0,Alive
+TCGA-IB-7890-01,pancreatic adenocarcinoma,01,598.0,Dead
+TCGA-H6-A45N-01,  Pancreatic Adenocarcinoma ,01,,Dead
+TCGA-IB-7654-01,pancreatic adenocarcinoma,01,476.0,Dead
+TCGA-HV-A7OL-01,  Pancreatic Adenocarcinoma ,01,252.0,Alive
+TCGA-Q3-AA2A-01,  Pancreatic Adenocarcinoma ,01,95.0,Alive
+TCGA-IB-7649-01,pancreatic adenocarcinoma,01,467.0,Dead
+TCGA-RB-AA9M-01,pancreatic adenocarcinoma,01,286.0,Alive
+TCGA-RB-A7B8-01,PANCREATIC ADENOCARCINOMA,01,466.0,Dead
+TCGA-2J-AABV-01,pancreatic adenocarcinoma,01,652.0,Dead
+TCGA-FB-AAQ3-01,  Pancreatic Adenocarcinoma ,01,--,Dead
+TCGA-IB-AAUQ-01,  Pancreatic Adenocarcinoma ,01,,Dead
+TCGA-3A-A9IJ-01,  Pancreatic Adenocarcinoma ,01,1854.0,Alive
+TCGA-HZ-A77O-01,PANCREATIC ADENOCARCINOMA,01,not reported,Dead
+TCGA-F2-6880-01,pancreatic adenocarcinoma,01,295.0,Alive
+TCGA-IB-AAUT-01,  Pancreatic Adenocarcinoma ,01,287.0,Alive
+TCGA-XD-AAUL-01,PANCREATIC ADENOCARCINOMA,01,498.0,Alive
+TCGA-IB-7891-01,  Pancreatic Adenocarcinoma ,01,913.0,Dead
+TCGA-2J-AABE-01,PANCREATIC ADENOCARCINOMA,01,676.0,Alive
+TCGA-HZ-8636-01,pancreatic adenocarcinoma,01,,Dead
+TCGA-3A-A9IL-01,PANCREATIC ADENOCARCINOMA,01,2741.0,Alive
+TCGA-Q3-A5QY-01,pancreatic adenocarcinoma,01,416.0,Alive
+TCGA-FB-AAPZ-01,pancreatic adenocarcinoma,01,716.0,Alive
+TCGA-H6-A45N-01,  Pancreatic Adenocarcinoma ,01,,Dead
+TCGA-HZ-A77P-01,pancreatic adenocarcinoma,01,not reported,Alive
+TCGA-YH-A8SY-01,pancreatic adenocarcinoma,01,388.0,Alive
+TCGA-2J-AABO-01,  Pancreatic Adenocarcinoma ,01,440.0,Alive
+TCGA-IB-8126-01,  Pancreatic Adenocarcinoma ,01,462.0,Alive
+TCGA-HZ-A9TJ-01,pancreatic adenocarcinoma,01,--,Alive
+TCGA-2J-AABR-01,pancreatic adenocarcinoma,01,,Alive
+TCGA-HZ-A49G-01,pancreatic adenocarcinoma,01,--,Alive
+TCGA-HZ-8002-01,pancreatic adenocarcinoma,01,--,Dead
+TCGA-IB-A6UF-01,PANCREATIC ADENOCARCINOMA,01,666.0,Alive
+TCGA-RL-AAAS-01,  Pancreatic Adenocarcinoma ,01,9.0,Alive
+TCGA-XN-A8T5-01,  Pancreatic Adenocarcinoma ,01,not reported,Alive
+TCGA-OE-A75W-01,  Pancreatic Adenocarcinoma ,01,267.0,Dead
+TCGA-IB-7887-01,pancreatic adenocarcinoma,01,110.0,Dead
+TCGA-IB-A5SS-01,pancreatic adenocarcinoma,01,460.0,Dead
+TCGA-IB-7893-01,PANCREATIC ADENOCARCINOMA,01,--,Dead
+TCGA-HV-A5A5-01,PANCREATIC ADENOCARCINOMA,01,--,Alive
+TCGA-FB-AAQ0-01,  Pancreatic Adenocarcinoma ,01,473.0,Dead
+TCGA-3A-A9IO-01,  Pancreatic Adenocarcinoma ,01,1942.0,Alive
+TCGA-HV-AA8V-01,pancreatic adenocarcinoma,01,920.0,Alive
+TCGA-2J-AAB8-01,PANCREATIC ADENOCARCINOMA,01,80.0,Alive
+TCGA-3A-A9IX-01,pancreatic adenocarcinoma,01,1037.0,Alive
+TCGA-3A-A9IH-01,pancreatic adenocarcinoma,01,1021.0,Alive
+TCGA-LB-A8F3-01,  Pancreatic Adenocarcinoma ,01,379.0,Alive
+TCGA-2J-AABI-01,PANCREATIC ADENOCARCINOMA,01,969.0,Alive
+TCGA-HZ-8637-01,  Pancreatic Adenocarcinoma ,01,517.0,Dead
+TCGA-FB-AAQ6-01,PANCREATIC ADENOCARCINOMA,01,244.0,Dead
+TCGA-2J-AAB9-01,pancreatic adenocarcinoma,01,627.0,Dead

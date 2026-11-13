@@ -1,0 +1,437 @@
+sampleID,primary disease or tissue,sample_type_code,days_to_last_followup,vital_status
+TCGA-EP-A2KC-01,  Liver Hepatocellular Carcinoma ,01,19.0,Dead
+TCGA-DD-A1EH-01,LIVER HEPATOCELLULAR CARCINOMA,01,1495.0,Alive
+TCGA-DD-A3A3-11,  Liver Hepatocellular Carcinoma ,11,535.0,Dead
+TCGA-DD-A114-01,  Liver Hepatocellular Carcinoma ,01,1149.0,Dead
+TCGA-ED-A459-01,liver hepatocellular carcinoma,01,910.0,Alive
+TCGA-BD-A2L6-11,liver hepatocellular carcinoma,11,1363.0,Alive
+TCGA-DD-AAVY-01,liver hepatocellular carcinoma,01,1970.0,Alive
+TCGA-2Y-A9GV-01,liver hepatocellular carcinoma,01,2532.0,Dead
+TCGA-2Y-A9GT-01,  Liver Hepatocellular Carcinoma ,01,,Dead
+TCGA-WQ-AB4B-01,LIVER HEPATOCELLULAR CARCINOMA,01,395.0,Alive
+TCGA-DD-AAVU-01,LIVER HEPATOCELLULAR CARCINOMA,01,2202.0,Alive
+TCGA-DD-AAC9-01,LIVER HEPATOCELLULAR CARCINOMA,01,,Alive
+TCGA-DD-A1EA-01,  Liver Hepatocellular Carcinoma ,01,not reported,Alive
+TCGA-BC-A8YO-01,liver hepatocellular carcinoma,01,562.0,Alive
+TCGA-BC-A110-11,  Liver Hepatocellular Carcinoma ,11,2116.0,Dead
+TCGA-GJ-A6C0-01,LIVER HEPATOCELLULAR CARCINOMA,01,31.0,Dead
+TCGA-DD-AADU-01,LIVER HEPATOCELLULAR CARCINOMA,01,554.0,Alive
+TCGA-DD-AADQ-01,LIVER HEPATOCELLULAR CARCINOMA,01,436.0,Alive
+TCGA-FV-A3I1-01,  Liver Hepatocellular Carcinoma ,01,247.0,Dead
+TCGA-UB-A7ME-01,LIVER HEPATOCELLULAR CARCINOMA,01,486.0,Alive
+TCGA-BC-A10W-01,LIVER HEPATOCELLULAR CARCINOMA,01,91.0,Dead
+TCGA-DD-A1EC-01,liver hepatocellular carcinoma,01,602.0,Alive
+TCGA-G3-A5SM-01,liver hepatocellular carcinoma,01,520.0,Alive
+TCGA-DD-AACN-01,LIVER HEPATOCELLULAR CARCINOMA,01,--,Alive
+TCGA-DD-A39W-01,LIVER HEPATOCELLULAR CARCINOMA,01,,Dead
+TCGA-DD-A4ND-01,LIVER HEPATOCELLULAR CARCINOMA,01,2746.0,Alive
+TCGA-DD-A39Y-01,  Liver Hepatocellular Carcinoma ,01,171.0,Dead
+TCGA-CC-A7IF-01,liver hepatocellular carcinoma,01,649.0,Dead
+TCGA-RC-A6M4-01,liver hepatocellular carcinoma,01,22.0,Alive
+TCGA-BC-A10X-11,  Liver Hepatocellular Carcinoma ,11,770.0,Dead
+TCGA-BC-A10Z-11,liver hepatocellular carcinoma,11,34.0,Dead
+TCGA-BC-A5W4-01,liver hepatocellular carcinoma,01,547.0,Dead
+TCGA-DD-A4NK-01,liver hepatocellular carcinoma,01,not reported,Dead
+TCGA-UB-A7MD-01,  Liver Hepatocellular Carcinoma ,01,52.0,Dead
+TCGA-G3-A7M5-01,LIVER HEPATOCELLULAR CARCINOMA,01,447.0,Alive
+TCGA-BC-A10Y-01,  Liver Hepatocellular Carcinoma ,01,711.0,Dead
+TCGA-G3-A3CH-01,  Liver Hepatocellular Carcinoma ,01,780.0,Alive
+TCGA-2Y-A9H4-01,liver hepatocellular carcinoma,01,1452.0,Alive
+TCGA-CC-A9FS-01,LIVER HEPATOCELLULAR CARCINOMA,01,,Alive
+TCGA-CC-A8HT-01,LIVER HEPATOCELLULAR CARCINOMA,01,140.0,Dead
+TCGA-5R-AA1C-01,  Liver Hepatocellular Carcinoma ,01,520.0,Alive
+TCGA-G3-A3CH-11,  Liver Hepatocellular Carcinoma ,11,,Alive
+TCGA-RC-A7SF-01,LIVER HEPATOCELLULAR CARCINOMA,01,579.0,Alive
+TCGA-K7-A6G5-01,LIVER HEPATOCELLULAR CARCINOMA,01,,Alive
+TCGA-ED-A7XP-01,  Liver Hepatocellular Carcinoma ,01,400.0,Alive
+TCGA-DD-A4NQ-01,LIVER HEPATOCELLULAR CARCINOMA,01,373.0,Dead
+TCGA-DD-A39X-01,liver hepatocellular carcinoma,01,1694.0,Dead
+TCGA-DD-A73C-01,  Liver Hepatocellular Carcinoma ,01,701.0,Alive
+TCGA-BD-A3EP-01,LIVER HEPATOCELLULAR CARCINOMA,01,409.0,Alive
+TCGA-BC-4072-01,  Liver Hepatocellular Carcinoma ,01,1490.0,Dead
+TCGA-DD-AACJ-01,LIVER HEPATOCELLULAR CARCINOMA,01,2102.0,Alive
+TCGA-G3-AAV1-01,liver hepatocellular carcinoma,01,359.0,Dead
+TCGA-CC-A5UD-01,liver hepatocellular carcinoma,01,304.0,Dead
+TCGA-G3-A3CH-11,  Liver Hepatocellular Carcinoma ,11,,Alive
+TCGA-DD-A1EI-01,liver hepatocellular carcinoma,01,183.0,Alive
+TCGA-G3-A6UC-01,  Liver Hepatocellular Carcinoma ,01,not reported,Alive
+TCGA-DD-AACC-01,LIVER HEPATOCELLULAR CARCINOMA,01,not reported,Dead
+TCGA-ED-A627-01,liver hepatocellular carcinoma,01,423.0,Alive
+TCGA-DD-A4NL-01,  Liver Hepatocellular Carcinoma ,01,1711.0,Alive
+TCGA-DD-AACX-01,LIVER HEPATOCELLULAR CARCINOMA,01,170.0,Alive
+TCGA-2Y-A9HA-01,liver hepatocellular carcinoma,01,36.0,Dead
+TCGA-DD-A3A1-11,LIVER HEPATOCELLULAR CARCINOMA,11,233.0,Dead
+TCGA-DD-A1EH-11,liver hepatocellular carcinoma,11,1495.0,Alive
+TCGA-G3-AAUZ-01,  Liver Hepatocellular Carcinoma ,01,--,Alive
+TCGA-PD-A5DF-01,liver hepatocellular carcinoma,01,--,Dead
+TCGA-DD-A39W-11,LIVER HEPATOCELLULAR CARCINOMA,11,827.0,Dead
+TCGA-UB-A7MC-01,liver hepatocellular carcinoma,01,500.0,Alive
+TCGA-5C-A9VG-01,  Liver Hepatocellular Carcinoma ,01,328.0,Alive
+TCGA-BC-A216-11,LIVER HEPATOCELLULAR CARCINOMA,11,1351.0,Alive
+TCGA-2Y-A9GZ-01,  Liver Hepatocellular Carcinoma ,01,848.0,Dead
+TCGA-DD-AAVV-01,liver hepatocellular carcinoma,01,2455.0,Alive
+TCGA-DD-A1EG-01,  Liver Hepatocellular Carcinoma ,01,1372.0,Dead
+TCGA-BW-A5NO-01,  Liver Hepatocellular Carcinoma ,01,20.0,Alive
+TCGA-DD-A4NH-01,liver hepatocellular carcinoma,01,917.0,Alive
+TCGA-DD-A1EF-01,liver hepatocellular carcinoma,01,394.0,Dead
+TCGA-XR-A8TF-01,liver hepatocellular carcinoma,01,693.0,Dead
+TCGA-FV-A3I0-11,  Liver Hepatocellular Carcinoma ,11,848.0,Alive
+TCGA-DD-A11A-01,liver hepatocellular carcinoma,01,79.0,Alive
+TCGA-DD-AAVS-01,  Liver Hepatocellular Carcinoma ,01,1823.0,Alive
+TCGA-DD-AAE4-01,  Liver Hepatocellular Carcinoma ,01,608.0,Alive
+TCGA-G3-AAV0-01,LIVER HEPATOCELLULAR CARCINOMA,01,476.0,Alive
+TCGA-DD-AADO-01,liver hepatocellular carcinoma,01,453.0,Alive
+TCGA-ZS-A9CE-01,LIVER HEPATOCELLULAR CARCINOMA,01,1241.0,Alive
+TCGA-G3-A5SJ-01,liver hepatocellular carcinoma,01,698.0,Alive
+TCGA-DD-AAD0-01,LIVER HEPATOCELLULAR CARCINOMA,01,137.0,Alive
+TCGA-RG-A7D4-01,LIVER HEPATOCELLULAR CARCINOMA,01,1098.0,Alive
+TCGA-CC-A7II-01,liver hepatocellular carcinoma,01,399.0,Alive
+TCGA-DD-AAE9-01,  Liver Hepatocellular Carcinoma ,01,722.0,Alive
+TCGA-UB-A7MB-01,LIVER HEPATOCELLULAR CARCINOMA,01,--,Alive
+TCGA-2Y-A9H5-01,  Liver Hepatocellular Carcinoma ,01,555.0,Dead
+TCGA-DD-A11B-11,LIVER HEPATOCELLULAR CARCINOMA,11,14.0,Dead
+TCGA-G3-A3CG-01,liver hepatocellular carcinoma,01,673.0,Alive
+TCGA-CC-A7IG-01,  Liver Hepatocellular Carcinoma ,01,299.0,Dead
+TCGA-MI-A75H-01,LIVER HEPATOCELLULAR CARCINOMA,01,747.0,Alive
+TCGA-WJ-A86L-01,liver hepatocellular carcinoma,01,345.0,Alive
+TCGA-DD-A119-01,LIVER HEPATOCELLULAR CARCINOMA,01,not reported,Dead
+TCGA-UB-AA0U-01,  Liver Hepatocellular Carcinoma ,01,327.0,Alive
+TCGA-DD-A73F-01,  Liver Hepatocellular Carcinoma ,01,1085.0,Alive
+TCGA-DD-AAED-01,  Liver Hepatocellular Carcinoma ,01,763.0,Alive
+TCGA-CC-A7IJ-01,  Liver Hepatocellular Carcinoma ,01,382.0,Alive
+TCGA-DD-A73D-01,LIVER HEPATOCELLULAR CARCINOMA,01,--,Alive
+TCGA-DD-AACE-01,liver hepatocellular carcinoma,01,2184.0,Alive
+TCGA-K7-AAU7-01,liver hepatocellular carcinoma,01,359.0,Alive
+TCGA-BC-A3KG-01,LIVER HEPATOCELLULAR CARCINOMA,01,680.0,Alive
+TCGA-CC-A7IK-01,LIVER HEPATOCELLULAR CARCINOMA,01,262.0,Dead
+TCGA-DD-AA3A-01,liver hepatocellular carcinoma,01,not reported,Dead
+TCGA-DD-A4NP-01,  Liver Hepatocellular Carcinoma ,01,3308.0,Alive
+TCGA-DD-AADY-01,LIVER HEPATOCELLULAR CARCINOMA,01,555.0,Alive
+TCGA-DD-A11B-01,  Liver Hepatocellular Carcinoma ,01,14.0,Dead
+TCGA-DD-AAD2-01,  Liver Hepatocellular Carcinoma ,01,658.0,Alive
+TCGA-MI-A75C-01,LIVER HEPATOCELLULAR CARCINOMA,01,291.0,Alive
+TCGA-DD-A11D-11,  Liver Hepatocellular Carcinoma ,11,1560.0,Dead
+TCGA-5C-AAPD-01,liver hepatocellular carcinoma,01,20.0,Alive
+TCGA-2Y-A9GS-01,liver hepatocellular carcinoma,01,724.0,Dead
+TCGA-CC-A5UC-01,LIVER HEPATOCELLULAR CARCINOMA,01,347.0,Dead
+TCGA-CC-5259-01,LIVER HEPATOCELLULAR CARCINOMA,01,250.0,Alive
+TCGA-CC-5258-01,  Liver Hepatocellular Carcinoma ,01,129.0,Dead
+TCGA-DD-AADN-01,LIVER HEPATOCELLULAR CARCINOMA,01,898.0,Alive
+TCGA-MR-A8JO-01,LIVER HEPATOCELLULAR CARCINOMA,01,330.0,Alive
+TCGA-DD-A73D-01,LIVER HEPATOCELLULAR CARCINOMA,01,--,Alive
+TCGA-EP-A2KA-01,LIVER HEPATOCELLULAR CARCINOMA,01,627.0,Dead
+TCGA-DD-AADC-01,LIVER HEPATOCELLULAR CARCINOMA,01,425.0,Dead
+TCGA-DD-A3A8-11,LIVER HEPATOCELLULAR CARCINOMA,11,,Dead
+TCGA-DD-AADG-01,LIVER HEPATOCELLULAR CARCINOMA,01,1145.0,Alive
+TCGA-DD-AACN-01,LIVER HEPATOCELLULAR CARCINOMA,01,--,Alive
+TCGA-DD-A73A-01,LIVER HEPATOCELLULAR CARCINOMA,01,728.0,Alive
+TCGA-ES-A2HT-11,  Liver Hepatocellular Carcinoma ,11,438.0,Dead
+TCGA-DD-AAEE-01,LIVER HEPATOCELLULAR CARCINOMA,01,810.0,Alive
+TCGA-DD-A73B-01,liver hepatocellular carcinoma,01,283.0,Dead
+TCGA-5R-AAAM-01,liver hepatocellular carcinoma,01,46.0,Dead
+TCGA-ZP-A9D4-01,liver hepatocellular carcinoma,01,395.0,Alive
+TCGA-BC-A110-01,liver hepatocellular carcinoma,01,2116.0,Dead
+TCGA-G3-AAV2-01,  Liver Hepatocellular Carcinoma ,01,372.0,Alive
+TCGA-DD-AACZ-01,  Liver Hepatocellular Carcinoma ,01,171.0,Dead
+TCGA-G3-A25S-01,LIVER HEPATOCELLULAR CARCINOMA,01,416.0,Dead
+TCGA-DD-AADL-01,liver hepatocellular carcinoma,01,636.0,Alive
+TCGA-G3-A7M9-01,liver hepatocellular carcinoma,01,56.0,Dead
+TCGA-2Y-A9GY-01,liver hepatocellular carcinoma,01,757.0,Dead
+TCGA-RC-A7SB-01,  Liver Hepatocellular Carcinoma ,01,588.0,Alive
+TCGA-DD-AADJ-01,  Liver Hepatocellular Carcinoma ,01,1066.0,Alive
+TCGA-2Y-A9H3-01,LIVER HEPATOCELLULAR CARCINOMA,01,1516.0,Alive
+TCGA-ZS-A9CF-01,liver hepatocellular carcinoma,01,2412.0,Alive
+TCGA-QA-A7B7-01,  Liver Hepatocellular Carcinoma ,01,94.0,Alive
+TCGA-CC-A9FW-01,LIVER HEPATOCELLULAR CARCINOMA,01,248.0,Alive
+TCGA-DD-A11A-11,  Liver Hepatocellular Carcinoma ,11,79.0,Alive
+TCGA-DD-AAW2-01,  Liver Hepatocellular Carcinoma ,01,1855.0,Alive
+TCGA-CC-A123-01,LIVER HEPATOCELLULAR CARCINOMA,01,219.0,Alive
+TCGA-FV-A2QR-11,liver hepatocellular carcinoma,11,581.0,Dead
+TCGA-O8-A75V-01,LIVER HEPATOCELLULAR CARCINOMA,01,538.0,Alive
+TCGA-ZS-A9CF-02,LIVER HEPATOCELLULAR CARCINOMA,02,2412.0,Alive
+TCGA-DD-AADK-01,LIVER HEPATOCELLULAR CARCINOMA,01,1049.0,Alive
+TCGA-DD-A116-11,  Liver Hepatocellular Carcinoma ,11,1622.0,Dead
+TCGA-DD-AAVR-01,liver hepatocellular carcinoma,01,2513.0,Alive
+TCGA-PD-A5DF-01,liver hepatocellular carcinoma,01,--,Dead
+TCGA-DD-A1EC-11,liver hepatocellular carcinoma,11,602.0,Alive
+TCGA-G3-AAV6-01,LIVER HEPATOCELLULAR CARCINOMA,01,65.0,Dead
+TCGA-DD-A3A3-01,LIVER HEPATOCELLULAR CARCINOMA,01,535.0,Dead
+TCGA-KR-A7K0-01,  Liver Hepatocellular Carcinoma ,01,65.0,Dead
+TCGA-G3-A5SL-01,LIVER HEPATOCELLULAR CARCINOMA,01,621.0,Alive
+TCGA-BC-A10T-11,  Liver Hepatocellular Carcinoma ,11,,Dead
+TCGA-DD-AACQ-01,LIVER HEPATOCELLULAR CARCINOMA,01,432.0,Dead
+TCGA-2Y-A9GW-01,  Liver Hepatocellular Carcinoma ,01,1271.0,Dead
+TCGA-FV-A23B-01,liver hepatocellular carcinoma,01,1852.0,Dead
+TCGA-GJ-A9DB-01,liver hepatocellular carcinoma,01,67.0,Dead
+TCGA-G3-A3CK-01,  Liver Hepatocellular Carcinoma ,01,585.0,Alive
+TCGA-DD-AADA-01,liver hepatocellular carcinoma,01,1233.0,Alive
+TCGA-G3-A7M8-01,LIVER HEPATOCELLULAR CARCINOMA,01,430.0,Alive
+TCGA-ED-A8O6-01,  Liver Hepatocellular Carcinoma ,01,56.0,Dead
+TCGA-DD-AAE7-01,liver hepatocellular carcinoma,01,644.0,Alive
+TCGA-RC-A7SH-01,liver hepatocellular carcinoma,01,468.0,Alive
+TCGA-DD-AAE0-01,liver hepatocellular carcinoma,01,555.0,Alive
+TCGA-CC-A8HU-01,liver hepatocellular carcinoma,01,344.0,Dead
+TCGA-DD-A3A1-01,liver hepatocellular carcinoma,01,233.0,Dead
+TCGA-XR-A8TD-01,  Liver Hepatocellular Carcinoma ,01,1030.0,Alive
+TCGA-DD-AAEA-01,LIVER HEPATOCELLULAR CARCINOMA,01,575.0,Alive
+TCGA-DD-AADV-01,liver hepatocellular carcinoma,01,,Alive
+TCGA-DD-A39V-11,  Liver Hepatocellular Carcinoma ,11,643.0,Dead
+TCGA-DD-A11C-11,liver hepatocellular carcinoma,11,662.0,Alive
+TCGA-BC-4073-01,LIVER HEPATOCELLULAR CARCINOMA,01,849.0,Alive
+TCGA-HP-A5N0-01,LIVER HEPATOCELLULAR CARCINOMA,01,1147.0,Dead
+TCGA-G3-A5SI-01,LIVER HEPATOCELLULAR CARCINOMA,01,768.0,Dead
+TCGA-ED-A82E-01,LIVER HEPATOCELLULAR CARCINOMA,01,408.0,Alive
+TCGA-RC-A6M5-01,  Liver Hepatocellular Carcinoma ,01,15.0,Alive
+TCGA-BC-A69I-01,LIVER HEPATOCELLULAR CARCINOMA,01,387.0,Alive
+TCGA-DD-AADP-01,  Liver Hepatocellular Carcinoma ,01,458.0,Alive
+TCGA-G3-AAUZ-01,  Liver Hepatocellular Carcinoma ,01,--,Alive
+TCGA-XR-A8TC-01,liver hepatocellular carcinoma,01,1339.0,Alive
+TCGA-CC-A3MC-01,  Liver Hepatocellular Carcinoma ,01,363.0,Alive
+TCGA-DD-A11D-01,liver hepatocellular carcinoma,01,1560.0,Dead
+TCGA-DD-A39Z-01,LIVER HEPATOCELLULAR CARCINOMA,01,601.0,Dead
+TCGA-G3-A3CJ-01,liver hepatocellular carcinoma,01,594.0,Alive
+TCGA-DD-AAVW-01,  Liver Hepatocellular Carcinoma ,01,2317.0,Alive
+TCGA-KR-A7K7-01,liver hepatocellular carcinoma,01,951.0,Alive
+TCGA-WX-AA46-01,  Liver Hepatocellular Carcinoma ,01,756.0,Alive
+TCGA-G3-A25U-01,  Liver Hepatocellular Carcinoma ,01,1636.0,Alive
+TCGA-ZP-A9D1-01,  Liver Hepatocellular Carcinoma ,01,21.0,Alive
+TCGA-DD-A1EB-11,LIVER HEPATOCELLULAR CARCINOMA,11,2017.0,Alive
+TCGA-DD-AACL-01,  Liver Hepatocellular Carcinoma ,01,107.0,Dead
+TCGA-CC-5260-01,liver hepatocellular carcinoma,01,87.0,Dead
+TCGA-DD-A3A9-01,LIVER HEPATOCELLULAR CARCINOMA,01,931.0,Dead
+TCGA-DD-AAE1-01,  Liver Hepatocellular Carcinoma ,01,not reported,Alive
+TCGA-DD-AADR-01,liver hepatocellular carcinoma,01,not reported,Alive
+TCGA-ZP-A9D2-01,LIVER HEPATOCELLULAR CARCINOMA,01,765.0,Dead
+TCGA-CC-A1HT-01,liver hepatocellular carcinoma,01,101.0,Dead
+TCGA-T1-A6J8-01,liver hepatocellular carcinoma,01,23.0,Alive
+TCGA-G3-A25Z-01,LIVER HEPATOCELLULAR CARCINOMA,01,not reported,Alive
+TCGA-DD-AACU-01,LIVER HEPATOCELLULAR CARCINOMA,01,1567.0,Alive
+TCGA-ED-A5KG-01,LIVER HEPATOCELLULAR CARCINOMA,01,854.0,Alive
+TCGA-DD-A1EL-01,liver hepatocellular carcinoma,01,415.0,Dead
+TCGA-BC-A112-01,  Liver Hepatocellular Carcinoma ,01,153.0,Dead
+TCGA-CC-5264-01,  Liver Hepatocellular Carcinoma ,01,102.0,Dead
+TCGA-ZS-A9CD-01,  Liver Hepatocellular Carcinoma ,01,1386.0,Dead
+TCGA-EP-A3RK-01,liver hepatocellular carcinoma,01,363.0,Alive
+TCGA-DD-AAEI-01,LIVER HEPATOCELLULAR CARCINOMA,01,1531.0,Alive
+TCGA-EP-A12J-11,  Liver Hepatocellular Carcinoma ,11,570.0,Alive
+TCGA-LG-A6GG-01,LIVER HEPATOCELLULAR CARCINOMA,01,387.0,Alive
+TCGA-DD-A1ED-01,  Liver Hepatocellular Carcinoma ,01,2301.0,Alive
+TCGA-DD-AAC8-01,  Liver Hepatocellular Carcinoma ,01,16.0,Dead
+TCGA-G3-A25V-01,LIVER HEPATOCELLULAR CARCINOMA,01,860.0,Alive
+TCGA-DD-A3A6-01,LIVER HEPATOCELLULAR CARCINOMA,01,3258.0,Dead
+TCGA-DD-AACP-01,  Liver Hepatocellular Carcinoma ,01,415.0,Alive
+TCGA-FV-A3R2-01,LIVER HEPATOCELLULAR CARCINOMA,01,194.0,Dead
+TCGA-DD-AACG-01,LIVER HEPATOCELLULAR CARCINOMA,01,469.0,Dead
+TCGA-G3-AAV5-01,  Liver Hepatocellular Carcinoma ,01,354.0,Alive
+TCGA-DD-AACA-02,liver hepatocellular carcinoma,02,2301.0,Alive
+TCGA-FV-A3R2-11,liver hepatocellular carcinoma,11,194.0,Dead
+TCGA-DD-A113-01,liver hepatocellular carcinoma,01,,Alive
+TCGA-DD-A4NO-01,liver hepatocellular carcinoma,01,,Alive
+TCGA-DD-AACO-01,liver hepatocellular carcinoma,01,1876.0,Alive
+TCGA-DD-AACI-01,  Liver Hepatocellular Carcinoma ,01,1618.0,Alive
+TCGA-DD-A73G-01,LIVER HEPATOCELLULAR CARCINOMA,01,3478.0,Alive
+TCGA-ED-A66Y-01,LIVER HEPATOCELLULAR CARCINOMA,01,296.0,Dead
+TCGA-FV-A496-01,LIVER HEPATOCELLULAR CARCINOMA,01,10.0,Alive
+TCGA-LG-A9QD-01,  Liver Hepatocellular Carcinoma ,01,366.0,Alive
+TCGA-DD-A3A2-11,liver hepatocellular carcinoma,11,,Dead
+TCGA-BW-A5NP-01,LIVER HEPATOCELLULAR CARCINOMA,01,--,Alive
+TCGA-DD-A4NV-01,  Liver Hepatocellular Carcinoma ,01,2398.0,Alive
+TCGA-2Y-A9H7-01,liver hepatocellular carcinoma,01,1168.0,Alive
+TCGA-BC-A10W-11,liver hepatocellular carcinoma,11,91.0,Dead
+TCGA-2Y-A9GU-01,LIVER HEPATOCELLULAR CARCINOMA,01,1939.0,Alive
+TCGA-DD-AAVZ-01,  Liver Hepatocellular Carcinoma ,01,1900.0,Alive
+TCGA-DD-A3A7-01,liver hepatocellular carcinoma,01,419.0,Dead
+TCGA-K7-A5RF-01,liver hepatocellular carcinoma,01,631.0,Alive
+TCGA-ZP-A9CV-01,liver hepatocellular carcinoma,01,1088.0,Dead
+TCGA-2Y-A9GT-01,  Liver Hepatocellular Carcinoma ,01,,Dead
+TCGA-ZS-A9CG-01,  Liver Hepatocellular Carcinoma ,01,341.0,Alive
+TCGA-DD-A4NB-01,  Liver Hepatocellular Carcinoma ,01,989.0,Alive
+TCGA-FV-A3I0-01,liver hepatocellular carcinoma,01,not reported,Alive
+TCGA-DD-A1EB-01,LIVER HEPATOCELLULAR CARCINOMA,01,2017.0,Alive
+TCGA-G3-A5SK-01,  Liver Hepatocellular Carcinoma ,01,--,Alive
+TCGA-NI-A4U2-01,liver hepatocellular carcinoma,01,1791.0,Dead
+TCGA-ZP-A9CY-01,  Liver Hepatocellular Carcinoma ,01,782.0,Alive
+TCGA-G3-A25T-01,liver hepatocellular carcinoma,01,1553.0,Alive
+TCGA-ED-A7PX-01,liver hepatocellular carcinoma,01,6.0,Alive
+TCGA-DD-AACK-01,liver hepatocellular carcinoma,01,9.0,Alive
+TCGA-DD-A3A5-01,  Liver Hepatocellular Carcinoma ,01,3125.0,Dead
+TCGA-ED-A7PZ-01,LIVER HEPATOCELLULAR CARCINOMA,01,6.0,Alive
+TCGA-5C-A9VH-01,LIVER HEPATOCELLULAR CARCINOMA,01,322.0,Alive
+TCGA-ED-A7PY-01,  Liver Hepatocellular Carcinoma ,01,390.0,Alive
+TCGA-DD-AACW-01,  Liver Hepatocellular Carcinoma ,01,1424.0,Alive
+TCGA-BC-A10Q-11,LIVER HEPATOCELLULAR CARCINOMA,11,1135.0,Dead
+TCGA-2Y-A9H6-01,LIVER HEPATOCELLULAR CARCINOMA,01,357.0,Alive
+TCGA-DD-AACF-01,  Liver Hepatocellular Carcinoma ,01,365.0,Dead
+TCGA-UB-A7MF-01,liver hepatocellular carcinoma,01,214.0,Dead
+TCGA-DD-A118-01,  Liver Hepatocellular Carcinoma ,01,3437.0,Alive
+TCGA-BW-A5NQ-01,liver hepatocellular carcinoma,01,0.0,Alive
+TCGA-G3-AAV7-01,liver hepatocellular carcinoma,01,361.0,Alive
+TCGA-DD-A3A4-01,liver hepatocellular carcinoma,01,612.0,Dead
+TCGA-DD-A3A8-11,LIVER HEPATOCELLULAR CARCINOMA,11,,Dead
+TCGA-DD-AAVP-01,  Liver Hepatocellular Carcinoma ,01,2752.0,Alive
+TCGA-DD-A73E-01,liver hepatocellular carcinoma,01,44.0,Alive
+TCGA-DD-AADS-01,  Liver Hepatocellular Carcinoma ,01,474.0,Alive
+TCGA-WX-AA44-01,liver hepatocellular carcinoma,01,615.0,Alive
+TCGA-DD-A4NG-01,LIVER HEPATOCELLULAR CARCINOMA,01,802.0,Dead
+TCGA-XR-A8TE-01,LIVER HEPATOCELLULAR CARCINOMA,01,925.0,Alive
+TCGA-ED-A97K-01,LIVER HEPATOCELLULAR CARCINOMA,01,6.0,Alive
+TCGA-DD-A39V-01,  Liver Hepatocellular Carcinoma ,01,643.0,Dead
+TCGA-CC-A8HS-01,  Liver Hepatocellular Carcinoma ,01,300.0,Dead
+TCGA-BC-A10T-01,liver hepatocellular carcinoma,01,837.0,Dead
+TCGA-DD-AAVX-01,LIVER HEPATOCELLULAR CARCINOMA,01,1718.0,Alive
+TCGA-2Y-A9HB-01,  Liver Hepatocellular Carcinoma ,01,260.0,Alive
+TCGA-EP-A2KB-01,liver hepatocellular carcinoma,01,596.0,Dead
+TCGA-BC-A10U-01,  Liver Hepatocellular Carcinoma ,01,837.0,Dead
+TCGA-2Y-A9H9-01,LIVER HEPATOCELLULAR CARCINOMA,01,--,Alive
+TCGA-ED-A7XO-01,liver hepatocellular carcinoma,01,427.0,Alive
+TCGA-DD-A119-11,liver hepatocellular carcinoma,11,223.0,Dead
+TCGA-DD-AAEH-01,  Liver Hepatocellular Carcinoma ,01,784.0,Alive
+TCGA-DD-AAE3-01,liver hepatocellular carcinoma,01,566.0,Alive
+TCGA-3K-AAZ8-01,LIVER HEPATOCELLULAR CARCINOMA,01,396.0,Alive
+TCGA-DD-A1EG-11,LIVER HEPATOCELLULAR CARCINOMA,11,1372.0,Dead
+TCGA-WX-AA47-01,LIVER HEPATOCELLULAR CARCINOMA,01,556.0,Dead
+TCGA-WQ-A9G7-01,  Liver Hepatocellular Carcinoma ,01,30.0,Alive
+TCGA-MI-A75E-01,liver hepatocellular carcinoma,01,507.0,Alive
+TCGA-FV-A3I1-11,LIVER HEPATOCELLULAR CARCINOMA,11,247.0,Dead
+TCGA-2Y-A9H1-01,liver hepatocellular carcinoma,01,1229.0,Dead
+TCGA-CC-A5UE-01,  Liver Hepatocellular Carcinoma ,01,--,Dead
+TCGA-ES-A2HT-01,LIVER HEPATOCELLULAR CARCINOMA,01,438.0,Dead
+TCGA-ED-A66X-01,  Liver Hepatocellular Carcinoma ,01,406.0,Alive
+TCGA-ZP-A9D0-01,liver hepatocellular carcinoma,01,1091.0,Alive
+TCGA-CC-A7IL-01,liver hepatocellular carcinoma,01,278.0,Dead
+TCGA-MI-A75G-01,  Liver Hepatocellular Carcinoma ,01,698.0,Alive
+TCGA-DD-AACH-01,liver hepatocellular carcinoma,01,195.0,Dead
+TCGA-DD-AAD6-01,  Liver Hepatocellular Carcinoma ,01,672.0,Alive
+TCGA-CC-A9FU-01,liver hepatocellular carcinoma,01,--,Alive
+TCGA-2Y-A9GX-01,LIVER HEPATOCELLULAR CARCINOMA,01,2442.0,Alive
+TCGA-CC-A7IE-01,LIVER HEPATOCELLULAR CARCINOMA,01,217.0,Dead
+TCGA-DD-AACS-01,liver hepatocellular carcinoma,01,1804.0,Alive
+TCGA-DD-A39Z-11,  Liver Hepatocellular Carcinoma ,11,601.0,Dead
+TCGA-DD-A4NO-01,liver hepatocellular carcinoma,01,,Alive
+TCGA-DD-AAEG-01,liver hepatocellular carcinoma,01,719.0,Alive
+TCGA-DD-AAE2-01,LIVER HEPATOCELLULAR CARCINOMA,01,638.0,Alive
+TCGA-MI-A75I-01,liver hepatocellular carcinoma,01,630.0,Alive
+TCGA-DD-AAEK-01,liver hepatocellular carcinoma,01,1067.0,Alive
+TCGA-DD-A3A8-01,  Liver Hepatocellular Carcinoma ,01,11.0,Dead
+TCGA-BD-A2L6-01,  Liver Hepatocellular Carcinoma ,01,1363.0,Alive
+TCGA-G3-A7M6-01,liver hepatocellular carcinoma,01,632.0,Alive
+TCGA-BC-A10R-01,  Liver Hepatocellular Carcinoma ,01,308.0,Dead
+TCGA-DD-A4NN-01,LIVER HEPATOCELLULAR CARCINOMA,01,899.0,Dead
+TCGA-K7-A5RG-01,  Liver Hepatocellular Carcinoma ,01,519.0,Alive
+TCGA-HP-A5MZ-01,  Liver Hepatocellular Carcinoma ,01,91.0,Dead
+TCGA-EP-A3RK-11,liver hepatocellular carcinoma,11,363.0,Alive
+TCGA-DD-A3A4-11,LIVER HEPATOCELLULAR CARCINOMA,11,612.0,Dead
+TCGA-YA-A8S7-01,LIVER HEPATOCELLULAR CARCINOMA,01,412.0,Dead
+TCGA-BC-A10U-11,LIVER HEPATOCELLULAR CARCINOMA,11,,Dead
+TCGA-UB-AA0V-01,LIVER HEPATOCELLULAR CARCINOMA,01,314.0,Alive
+TCGA-FV-A23B-11,LIVER HEPATOCELLULAR CARCINOMA,11,1852.0,Dead
+TCGA-DD-AAD1-01,liver hepatocellular carcinoma,01,564.0,Alive
+TCGA-ES-A2HS-01,  Liver Hepatocellular Carcinoma ,01,not reported,Dead
+TCGA-DD-A11C-01,LIVER HEPATOCELLULAR CARCINOMA,01,662.0,Alive
+TCGA-CC-5261-01,  Liver Hepatocellular Carcinoma ,01,97.0,Dead
+TCGA-DD-A4NE-01,liver hepatocellular carcinoma,01,660.0,Dead
+TCGA-DD-A113-11,LIVER HEPATOCELLULAR CARCINOMA,11,--,Alive
+TCGA-G3-A25Y-01,  Liver Hepatocellular Carcinoma ,01,452.0,Dead
+TCGA-CC-5262-01,LIVER HEPATOCELLULAR CARCINOMA,01,103.0,Dead
+TCGA-G3-A5SK-01,  Liver Hepatocellular Carcinoma ,01,--,Alive
+TCGA-BC-A10R-11,liver hepatocellular carcinoma,11,308.0,Dead
+TCGA-BD-A3EP-11,  Liver Hepatocellular Carcinoma ,11,409.0,Alive
+TCGA-DD-AADW-01,  Liver Hepatocellular Carcinoma ,01,587.0,Alive
+TCGA-G3-A3CI-01,LIVER HEPATOCELLULAR CARCINOMA,01,180.0,Alive
+TCGA-CC-A3MB-01,liver hepatocellular carcinoma,01,315.0,Dead
+TCGA-DD-AAEB-01,liver hepatocellular carcinoma,01,478.0,Alive
+TCGA-CC-A3MA-01,LIVER HEPATOCELLULAR CARCINOMA,01,303.0,Dead
+TCGA-G3-A7M7-01,  Liver Hepatocellular Carcinoma ,01,361.0,Alive
+TCGA-EP-A26S-01,  Liver Hepatocellular Carcinoma ,01,608.0,Alive
+TCGA-DD-A116-01,liver hepatocellular carcinoma,01,1622.0,Dead
+TCGA-DD-AAVQ-01,LIVER HEPATOCELLULAR CARCINOMA,01,2728.0,Alive
+TCGA-DD-AAD3-01,LIVER HEPATOCELLULAR CARCINOMA,01,1295.0,Alive
+TCGA-5R-AA1D-01,LIVER HEPATOCELLULAR CARCINOMA,01,not reported,Alive
+TCGA-DD-A115-01,LIVER HEPATOCELLULAR CARCINOMA,01,2542.0,Dead
+TCGA-FV-A2QQ-01,  Liver Hepatocellular Carcinoma ,01,729.0,Alive
+TCGA-DD-A1EI-11,  Liver Hepatocellular Carcinoma ,11,183.0,Alive
+TCGA-FV-A3I0-01,liver hepatocellular carcinoma,01,not reported,Alive
+TCGA-DD-A39X-11,liver hepatocellular carcinoma,11,1694.0,Dead
+TCGA-RC-A6M3-01,LIVER HEPATOCELLULAR CARCINOMA,01,0.0,Alive
+TCGA-DD-A114-11,liver hepatocellular carcinoma,11,1149.0,Dead
+TCGA-XR-A8TG-01,  Liver Hepatocellular Carcinoma ,01,898.0,Alive
+TCGA-DD-A4NJ-01,LIVER HEPATOCELLULAR CARCINOMA,01,928.0,Alive
+TCGA-DD-A4NF-01,  Liver Hepatocellular Carcinoma ,01,942.0,Alive
+TCGA-DD-A1EE-11,  Liver Hepatocellular Carcinoma ,11,349.0,Dead
+TCGA-BC-A216-01,LIVER HEPATOCELLULAR CARCINOMA,01,1351.0,Alive
+TCGA-DD-A4NI-01,  Liver Hepatocellular Carcinoma ,01,816.0,Alive
+TCGA-DD-AADM-01,  Liver Hepatocellular Carcinoma ,01,12.0,Dead
+TCGA-EP-A26S-11,LIVER HEPATOCELLULAR CARCINOMA,11,608.0,Alive
+TCGA-DD-A118-11,LIVER HEPATOCELLULAR CARCINOMA,11,3437.0,Alive
+TCGA-DD-AAW3-01,LIVER HEPATOCELLULAR CARCINOMA,01,1633.0,Alive
+TCGA-DD-AAD5-01,liver hepatocellular carcinoma,01,1345.0,Alive
+TCGA-DD-A3A5-11,liver hepatocellular carcinoma,11,3125.0,Dead
+TCGA-FV-A495-01,  Liver Hepatocellular Carcinoma ,01,1.0,Alive
+TCGA-BC-A10Z-01,LIVER HEPATOCELLULAR CARCINOMA,01,34.0,Dead
+TCGA-DD-A3A6-11,  Liver Hepatocellular Carcinoma ,11,3258.0,Dead
+TCGA-DD-AAW0-01,LIVER HEPATOCELLULAR CARCINOMA,01,2015.0,Alive
+TCGA-DD-A1EJ-01,  Liver Hepatocellular Carcinoma ,01,1005.0,Dead
+TCGA-DD-AACY-01,liver hepatocellular carcinoma,01,1450.0,Alive
+TCGA-RC-A7S9-01,liver hepatocellular carcinoma,01,640.0,Alive
+TCGA-2Y-A9H8-01,  Liver Hepatocellular Carcinoma ,01,633.0,Dead
+TCGA-DD-AACB-01,  Liver Hepatocellular Carcinoma ,01,2324.0,Alive
+TCGA-GJ-A3OU-01,  Liver Hepatocellular Carcinoma ,01,879.0,Alive
+TCGA-ED-A4XI-01,  Liver Hepatocellular Carcinoma ,01,819.0,Alive
+TCGA-BD-A3ER-01,liver hepatocellular carcinoma,01,1115.0,Alive
+TCGA-UB-A7MA-01,  Liver Hepatocellular Carcinoma ,01,848.0,Alive
+TCGA-DD-AACT-01,  Liver Hepatocellular Carcinoma ,01,1562.0,Alive
+TCGA-DD-AAE6-01,LIVER HEPATOCELLULAR CARCINOMA,01,141.0,Alive
+TCGA-4R-AA8I-01,liver hepatocellular carcinoma,01,262.0,Dead
+TCGA-DD-A1EJ-11,LIVER HEPATOCELLULAR CARCINOMA,11,1005.0,Dead
+TCGA-RC-A7SK-01,  Liver Hepatocellular Carcinoma ,01,472.0,Alive
+TCGA-DD-A4NS-01,liver hepatocellular carcinoma,01,2456.0,Dead
+TCGA-2Y-A9H2-01,  Liver Hepatocellular Carcinoma ,01,1731.0,Alive
+TCGA-CC-5263-01,liver hepatocellular carcinoma,01,129.0,Dead
+TCGA-G3-A25X-01,liver hepatocellular carcinoma,01,1779.0,Alive
+TCGA-DD-AAD8-01,LIVER HEPATOCELLULAR CARCINOMA,01,1219.0,Alive
+TCGA-BC-A10X-01,liver hepatocellular carcinoma,01,770.0,Dead
+TCGA-NI-A8LF-01,  Liver Hepatocellular Carcinoma ,01,799.0,Alive
+TCGA-DD-AA3A-01,liver hepatocellular carcinoma,01,not reported,Dead
+TCGA-BC-A10Y-11,LIVER HEPATOCELLULAR CARCINOMA,11,711.0,Dead
+TCGA-FV-A4ZP-01,liver hepatocellular carcinoma,01,2486.0,Dead
+TCGA-KR-A7K8-01,  Liver Hepatocellular Carcinoma ,01,906.0,Alive
+TCGA-RC-A6M6-01,LIVER HEPATOCELLULAR CARCINOMA,01,9.0,Alive
+TCGA-DD-A3A2-01,  Liver Hepatocellular Carcinoma ,01,2131.0,Dead
+TCGA-BC-A217-01,liver hepatocellular carcinoma,01,1397.0,Dead
+TCGA-ZP-A9CZ-01,LIVER HEPATOCELLULAR CARCINOMA,01,706.0,Alive
+TCGA-CC-A7IH-01,LIVER HEPATOCELLULAR CARCINOMA,01,365.0,Alive
+TCGA-DD-A4NK-01,liver hepatocellular carcinoma,01,not reported,Dead
+TCGA-DD-A1EE-01,LIVER HEPATOCELLULAR CARCINOMA,01,349.0,Dead
+TCGA-G3-AAV3-01,LIVER HEPATOCELLULAR CARCINOMA,01,412.0,Alive
+TCGA-ED-A8O5-01,liver hepatocellular carcinoma,01,406.0,Alive
+TCGA-MR-A520-01,  Liver Hepatocellular Carcinoma ,01,--,Alive
+TCGA-ES-A2HS-01,  Liver Hepatocellular Carcinoma ,01,not reported,Dead
+TCGA-2Y-A9H0-01,LIVER HEPATOCELLULAR CARCINOMA,01,3675.0,Alive
+TCGA-DD-AACA-01,liver hepatocellular carcinoma,01,2301.0,Alive
+TCGA-EP-A12J-01,liver hepatocellular carcinoma,01,570.0,Alive
+TCGA-BC-A69H-01,  Liver Hepatocellular Carcinoma ,01,444.0,Alive
+TCGA-G3-AAV4-01,liver hepatocellular carcinoma,01,not reported,Dead
+TCGA-DD-AACV-01,liver hepatocellular carcinoma,01,1531.0,Alive
+TCGA-FV-A2QR-01,LIVER HEPATOCELLULAR CARCINOMA,01,581.0,Dead
+TCGA-CC-A9FV-01,  Liver Hepatocellular Carcinoma ,01,0.0,Alive
+TCGA-LG-A9QC-01,liver hepatocellular carcinoma,01,425.0,Alive
+TCGA-DD-AADB-01,  Liver Hepatocellular Carcinoma ,01,1242.0,Alive
+TCGA-DD-AADD-01,liver hepatocellular carcinoma,01,1231.0,Alive
+TCGA-CC-A8HV-01,  Liver Hepatocellular Carcinoma ,01,not reported,Dead
+TCGA-FV-A4ZQ-01,  Liver Hepatocellular Carcinoma ,01,12.0,Alive
+TCGA-2V-A95S-01,LIVER HEPATOCELLULAR CARCINOMA,01,,Alive
+TCGA-CC-A3M9-01,  Liver Hepatocellular Carcinoma ,01,300.0,Dead
+TCGA-KR-A7K2-01,LIVER HEPATOCELLULAR CARCINOMA,01,829.0,Alive
+TCGA-DD-AAW1-01,liver hepatocellular carcinoma,01,--,Alive
+TCGA-DD-AADF-01,  Liver Hepatocellular Carcinoma ,01,115.0,Dead
+TCGA-DD-AADI-01,liver hepatocellular carcinoma,01,1085.0,Alive
+TCGA-DD-A39W-01,LIVER HEPATOCELLULAR CARCINOMA,01,,Dead
+TCGA-DD-A4NA-01,liver hepatocellular carcinoma,01,1008.0,Alive
+TCGA-BC-A10S-01,LIVER HEPATOCELLULAR CARCINOMA,01,1423.0,Dead
+TCGA-DD-AAE1-01,  Liver Hepatocellular Carcinoma ,01,not reported,Alive
+TCGA-BC-A3KF-01,  Liver Hepatocellular Carcinoma ,01,8.0,Alive
+TCGA-DD-A1EK-01,LIVER HEPATOCELLULAR CARCINOMA,01,558.0,Dead
+TCGA-FV-A3R3-01,liver hepatocellular carcinoma,01,366.0,Dead
+TCGA-EP-A3JL-01,LIVER HEPATOCELLULAR CARCINOMA,01,303.0,Alive
+TCGA-DD-A1EL-11,liver hepatocellular carcinoma,11,415.0,Dead
+TCGA-BC-A10Q-01,liver hepatocellular carcinoma,01,1135.0,Dead

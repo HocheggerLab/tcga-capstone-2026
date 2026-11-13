@@ -1,0 +1,17 @@
+[project]
+name = "tcga-capstone-2026"
+version = "0.1.0"
+description = "Year 3 Python capstone: does your gene respond to p53 loss?"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.1.1",
+    "scipy>=1.18.1",
+    "seaborn>=0.13.2",
+]
+
+[tool.uv]
+exclude-newer = "7 days"

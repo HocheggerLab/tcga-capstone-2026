@@ -1,0 +1,564 @@
+sampleID,primary disease or tissue,sample_type_code,days_to_last_followup,vital_status
+TCGA-YL-A8SK-01,PROSTATE ADENOCARCINOMA,01,1408.0,Alive
+TCGA-EJ-A7NM-01,prostate adenocarcinoma,01,128.0,Alive
+TCGA-J9-A8CM-01,prostate adenocarcinoma,01,463.0,Alive
+TCGA-VP-A87H-01,prostate adenocarcinoma,01,663.0,Alive
+TCGA-YL-A8SJ-01,  Prostate Adenocarcinoma ,01,1395.0,Alive
+TCGA-HC-A48F-01,PROSTATE ADENOCARCINOMA,01,680.0,Alive
+TCGA-EJ-5531-01,  Prostate Adenocarcinoma ,01,1273.0,Alive
+TCGA-VN-A88I-01,PROSTATE ADENOCARCINOMA,01,269.0,Alive
+TCGA-H9-7775-01,prostate adenocarcinoma,01,185.0,Alive
+TCGA-KK-A6E3-01,  Prostate Adenocarcinoma ,01,2056.0,Alive
+TCGA-ZG-A9LM-01,prostate adenocarcinoma,01,378.0,Alive
+TCGA-G9-7525-01,PROSTATE ADENOCARCINOMA,01,994.0,Alive
+TCGA-HC-8259-01,  Prostate Adenocarcinoma ,01,924.0,Alive
+TCGA-HC-8262-01,  Prostate Adenocarcinoma ,01,679.0,Alive
+TCGA-KK-A5A1-01,PROSTATE ADENOCARCINOMA,01,2469.0,Dead
+TCGA-VP-A87B-01,PROSTATE ADENOCARCINOMA,01,2722.0,Alive
+TCGA-CH-5744-01,  Prostate Adenocarcinoma ,01,60.0,Alive
+TCGA-KC-A4BL-01,prostate adenocarcinoma,01,934.0,Alive
+TCGA-HC-A8D0-01,PROSTATE ADENOCARCINOMA,01,not reported,Alive
+TCGA-V1-A9OQ-01,prostate adenocarcinoma,01,371.0,Alive
+TCGA-KC-A4BN-01,  Prostate Adenocarcinoma ,01,1815.0,Alive
+TCGA-HC-A8D1-01,prostate adenocarcinoma,01,573.0,Alive
+TCGA-V1-A9Z8-01,PROSTATE ADENOCARCINOMA,01,827.0,Alive
+TCGA-EJ-7331-01,prostate adenocarcinoma,01,742.0,Alive
+TCGA-EJ-5511-01,  Prostate Adenocarcinoma ,01,1476.0,Alive
+TCGA-ZG-A9LN-01,  Prostate Adenocarcinoma ,01,115.0,Alive
+TCGA-G9-6351-11,PROSTATE ADENOCARCINOMA,11,2048.0,Alive
+TCGA-HC-7211-01,PROSTATE ADENOCARCINOMA,01,1221.0,Alive
+TCGA-J4-A67T-01,PROSTATE ADENOCARCINOMA,01,183.0,Alive
+TCGA-2A-A8VO-01,prostate adenocarcinoma,01,1701.0,Alive
+TCGA-G9-6347-01,prostate adenocarcinoma,01,2089.0,Alive
+TCGA-VN-A88L-01,  Prostate Adenocarcinoma ,01,746.0,Alive
+TCGA-CH-5772-01,PROSTATE ADENOCARCINOMA,01,486.0,Alive
+TCGA-VN-A88M-01,PROSTATE ADENOCARCINOMA,01,189.0,Alive
+TCGA-HI-7168-01,prostate adenocarcinoma,01,--,Alive
+TCGA-KK-A6E1-01,PROSTATE ADENOCARCINOMA,01,2198.0,Alive
+TCGA-EJ-5508-01,  Prostate Adenocarcinoma ,01,1965.0,Alive
+TCGA-HC-7750-01,  Prostate Adenocarcinoma ,01,522.0,Alive
+TCGA-2A-A8VT-01,  Prostate Adenocarcinoma ,01,1373.0,Alive
+TCGA-M7-A71Z-01,PROSTATE ADENOCARCINOMA,01,643.0,Alive
+TCGA-SU-A7E7-01,prostate adenocarcinoma,01,,Alive
+TCGA-EJ-5498-01,  Prostate Adenocarcinoma ,01,1720.0,Alive
+TCGA-VP-AA1N-01,prostate adenocarcinoma,01,1365.0,Alive
+TCGA-EJ-A7NG-01,PROSTATE ADENOCARCINOMA,01,432.0,Alive
+TCGA-HI-7170-01,PROSTATE ADENOCARCINOMA,01,2522.0,Alive
+TCGA-EJ-8474-01,PROSTATE ADENOCARCINOMA,01,766.0,Alive
+TCGA-EJ-A46G-01,  Prostate Adenocarcinoma ,01,668.0,Alive
+TCGA-EJ-A8FP-01,  Prostate Adenocarcinoma ,01,299.0,Alive
+TCGA-2A-A8W1-01,  Prostate Adenocarcinoma ,01,112.0,Alive
+TCGA-HC-A6AQ-01,  Prostate Adenocarcinoma ,01,--,Alive
+TCGA-V1-A9ZR-01,  Prostate Adenocarcinoma ,01,1361.0,Alive
+TCGA-G9-6496-11,PROSTATE ADENOCARCINOMA,11,1726.0,Alive
+TCGA-EJ-7784-01,  Prostate Adenocarcinoma ,01,781.0,Alive
+TCGA-XK-AAJT-01,  Prostate Adenocarcinoma ,01,1434.0,Alive
+TCGA-EJ-5514-01,prostate adenocarcinoma,01,1829.0,Alive
+TCGA-YL-A8SB-01,PROSTATE ADENOCARCINOMA,01,1719.0,Alive
+TCGA-EJ-A8FN-01,PROSTATE ADENOCARCINOMA,01,329.0,Alive
+TCGA-KK-A7AU-01,prostate adenocarcinoma,01,1775.0,Alive
+TCGA-V1-A9OF-01,prostate adenocarcinoma,01,1184.0,Alive
+TCGA-G9-6351-01,PROSTATE ADENOCARCINOMA,01,2048.0,Alive
+TCGA-EJ-7781-11,PROSTATE ADENOCARCINOMA,11,1073.0,Alive
+TCGA-X4-A8KS-01,prostate adenocarcinoma,01,--,Alive
+TCGA-HC-7742-01,  Prostate Adenocarcinoma ,01,938.0,Alive
+TCGA-HC-7817-01,prostate adenocarcinoma,01,928.0,Alive
+TCGA-V1-A8WV-01,PROSTATE ADENOCARCINOMA,01,686.0,Alive
+TCGA-G9-7521-01,PROSTATE ADENOCARCINOMA,01,942.0,Alive
+TCGA-2A-A8W3-01,PROSTATE ADENOCARCINOMA,01,863.0,Alive
+TCGA-V1-A9OT-01,  Prostate Adenocarcinoma ,01,476.0,Alive
+TCGA-CH-5740-01,  Prostate Adenocarcinoma ,01,31.0,Alive
+TCGA-EJ-7125-11,PROSTATE ADENOCARCINOMA,11,2850.0,Alive
+TCGA-HC-8257-01,PROSTATE ADENOCARCINOMA,01,726.0,Alive
+TCGA-EJ-5527-01,PROSTATE ADENOCARCINOMA,01,1778.0,Alive
+TCGA-ZG-A9N3-01,PROSTATE ADENOCARCINOMA,01,349.0,Alive
+TCGA-FC-A6HD-01,PROSTATE ADENOCARCINOMA,01,789.0,Alive
+TCGA-ZG-A9L0-01,PROSTATE ADENOCARCINOMA,01,355.0,Alive
+TCGA-KK-A6DY-01,prostate adenocarcinoma,01,4295.0,Alive
+TCGA-G9-6361-01,prostate adenocarcinoma,01,1415.0,Alive
+TCGA-HC-7209-01,prostate adenocarcinoma,01,440.0,Alive
+TCGA-XA-A8JR-01,  Prostate Adenocarcinoma ,01,376.0,Alive
+TCGA-KK-A59Z-01,  Prostate Adenocarcinoma ,01,2628.0,Alive
+TCGA-XK-AAJ3-01,prostate adenocarcinoma,01,1262.0,Alive
+TCGA-V1-A9ZI-01,PROSTATE ADENOCARCINOMA,01,1640.0,Alive
+TCGA-YJ-A8SW-01,PROSTATE ADENOCARCINOMA,01,148.0,Alive
+TCGA-KK-A8ID-01,  Prostate Adenocarcinoma ,01,2107.0,Alive
+TCGA-EJ-5521-01,prostate adenocarcinoma,01,2279.0,Alive
+TCGA-EJ-7797-01,  Prostate Adenocarcinoma ,01,983.0,Alive
+TCGA-XK-AAIV-01,  Prostate Adenocarcinoma ,01,1133.0,Alive
+TCGA-J4-A83J-11,PROSTATE ADENOCARCINOMA,11,696.0,Alive
+TCGA-EJ-5530-01,prostate adenocarcinoma,01,1832.0,Alive
+TCGA-ZG-A8QX-01,  Prostate Adenocarcinoma ,01,not reported,Alive
+TCGA-KC-A7F5-01,PROSTATE ADENOCARCINOMA,01,91.0,Alive
+TCGA-H9-A6BX-01,  Prostate Adenocarcinoma ,01,941.0,Alive
+TCGA-XJ-A9DK-01,prostate adenocarcinoma,01,275.0,Alive
+TCGA-G9-6385-01,prostate adenocarcinoma,01,830.0,Alive
+TCGA-KK-A6E6-01,  Prostate Adenocarcinoma ,01,3447.0,Alive
+TCGA-KK-A8IC-01,prostate adenocarcinoma,01,2051.0,Alive
+TCGA-YL-A9WY-01,PROSTATE ADENOCARCINOMA,01,1098.0,Alive
+TCGA-VN-A88K-01,prostate adenocarcinoma,01,776.0,Alive
+TCGA-KK-A7AW-01,PROSTATE ADENOCARCINOMA,01,not reported,Alive
+TCGA-EJ-5512-01,PROSTATE ADENOCARCINOMA,01,1733.0,Alive
+TCGA-HC-A76W-01,PROSTATE ADENOCARCINOMA,01,213.0,Alive
+TCGA-V1-A9ZK-01,prostate adenocarcinoma,01,,Alive
+TCGA-FC-7708-01,prostate adenocarcinoma,01,864.0,Alive
+TCGA-KK-A8IB-01,PROSTATE ADENOCARCINOMA,01,83.0,Alive
+TCGA-ZG-A9L5-01,PROSTATE ADENOCARCINOMA,01,908.0,Alive
+TCGA-2A-AAYO-01,  Prostate Adenocarcinoma ,01,1272.0,Alive
+TCGA-G9-6367-01,prostate adenocarcinoma,01,1222.0,Alive
+TCGA-EJ-5503-01,PROSTATE ADENOCARCINOMA,01,1391.0,Alive
+TCGA-KK-A8IL-01,PROSTATE ADENOCARCINOMA,01,628.0,Dead
+TCGA-HC-7737-01,  Prostate Adenocarcinoma ,01,1090.0,Alive
+TCGA-V1-A9OH-01,  Prostate Adenocarcinoma ,01,2403.0,Alive
+TCGA-HC-A6AO-01,PROSTATE ADENOCARCINOMA,01,530.0,Alive
+TCGA-CH-5789-01,  Prostate Adenocarcinoma ,01,304.0,Alive
+TCGA-HC-8260-01,PROSTATE ADENOCARCINOMA,01,686.0,Alive
+TCGA-VP-A87D-01,  Prostate Adenocarcinoma ,01,1853.0,Alive
+TCGA-XQ-A8TB-01,PROSTATE ADENOCARCINOMA,01,770.0,Alive
+TCGA-HC-7745-11,prostate adenocarcinoma,11,721.0,Alive
+TCGA-ZG-A9LS-01,PROSTATE ADENOCARCINOMA,01,516.0,Alive
+TCGA-XJ-A83H-01,  Prostate Adenocarcinoma ,01,1280.0,Alive
+TCGA-HC-8216-01,prostate adenocarcinoma,01,682.0,Alive
+TCGA-YL-A8S9-01,prostate adenocarcinoma,01,1842.0,Alive
+TCGA-EJ-7317-01,PROSTATE ADENOCARCINOMA,01,771.0,Alive
+TCGA-EJ-A7NN-01,  Prostate Adenocarcinoma ,01,197.0,Alive
+TCGA-HC-7213-01,  Prostate Adenocarcinoma ,01,1219.0,Alive
+TCGA-TK-A8OK-01,  Prostate Adenocarcinoma ,01,27.0,Alive
+TCGA-CH-5738-01,PROSTATE ADENOCARCINOMA,01,,Alive
+TCGA-EJ-7789-11,PROSTATE ADENOCARCINOMA,11,1105.0,Alive
+TCGA-J4-A83J-01,  Prostate Adenocarcinoma ,01,696.0,Alive
+TCGA-KK-A7AY-01,prostate adenocarcinoma,01,1754.0,Alive
+TCGA-EJ-7792-11,prostate adenocarcinoma,11,1396.0,Alive
+TCGA-M7-A725-01,PROSTATE ADENOCARCINOMA,01,573.0,Alive
+TCGA-V1-A8MG-01,PROSTATE ADENOCARCINOMA,01,857.0,Alive
+TCGA-J4-8198-01,  Prostate Adenocarcinoma ,01,614.0,Alive
+TCGA-EJ-5542-01,prostate adenocarcinoma,01,1513.0,Alive
+TCGA-EJ-5525-01,prostate adenocarcinoma,01,1115.0,Alive
+TCGA-CH-5752-01,  Prostate Adenocarcinoma ,01,943.0,Alive
+TCGA-XK-AAJR-01,prostate adenocarcinoma,01,1124.0,Alive
+TCGA-EJ-7789-01,PROSTATE ADENOCARCINOMA,01,,Alive
+TCGA-EJ-7115-11,prostate adenocarcinoma,11,2687.0,Alive
+TCGA-QU-A6IL-01,  Prostate Adenocarcinoma ,01,97.0,Alive
+TCGA-EJ-7330-11,prostate adenocarcinoma,11,191.0,Alive
+TCGA-KK-A8IH-01,  Prostate Adenocarcinoma ,01,2013.0,Alive
+TCGA-KK-A8IA-01,  Prostate Adenocarcinoma ,01,1931.0,Alive
+TCGA-CH-5768-11,  Prostate Adenocarcinoma ,11,731.0,Alive
+TCGA-G9-6378-01,prostate adenocarcinoma,01,1155.0,Alive
+TCGA-KK-A6E8-01,prostate adenocarcinoma,01,1770.0,Alive
+TCGA-ZG-A8QZ-01,prostate adenocarcinoma,01,308.0,Alive
+TCGA-G9-6365-11,prostate adenocarcinoma,11,1363.0,Alive
+TCGA-M7-A720-01,prostate adenocarcinoma,01,384.0,Alive
+TCGA-G9-6365-01,  Prostate Adenocarcinoma ,01,1363.0,Alive
+TCGA-EJ-A65D-01,PROSTATE ADENOCARCINOMA,01,393.0,Alive
+TCGA-G9-A9S7-01,PROSTATE ADENOCARCINOMA,01,,Alive
+TCGA-KC-A4BV-01,prostate adenocarcinoma,01,1328.0,Alive
+TCGA-2A-A8VX-01,prostate adenocarcinoma,01,1378.0,Alive
+TCGA-HC-8264-01,PROSTATE ADENOCARCINOMA,01,48.0,Alive
+TCGA-J9-A52E-01,prostate adenocarcinoma,01,323.0,Alive
+TCGA-G9-6329-01,  Prostate Adenocarcinoma ,01,1266.0,Alive
+TCGA-CH-5754-01,prostate adenocarcinoma,01,62.0,Alive
+TCGA-KC-A7FD-01,PROSTATE ADENOCARCINOMA,01,270.0,Alive
+TCGA-EJ-8470-01,prostate adenocarcinoma,01,1159.0,Alive
+TCGA-FC-A5OB-01,prostate adenocarcinoma,01,680.0,Alive
+TCGA-J4-A6M7-01,PROSTATE ADENOCARCINOMA,01,512.0,Alive
+TCGA-EJ-7781-01,  Prostate Adenocarcinoma ,01,1073.0,Alive
+TCGA-G9-6354-01,  Prostate Adenocarcinoma ,01,2066.0,Alive
+TCGA-M7-A71Y-01,  Prostate Adenocarcinoma ,01,493.0,Alive
+TCGA-EJ-5501-01,prostate adenocarcinoma,01,1365.0,Alive
+TCGA-ZG-A9LZ-01,PROSTATE ADENOCARCINOMA,01,692.0,Alive
+TCGA-J4-A67M-01,PROSTATE ADENOCARCINOMA,01,941.0,Alive
+TCGA-ZG-A9LY-01,  Prostate Adenocarcinoma ,01,370.0,Alive
+TCGA-KK-A7B1-01,prostate adenocarcinoma,01,1063.0,Alive
+TCGA-CH-5751-01,prostate adenocarcinoma,01,1065.0,Alive
+TCGA-HC-8259-11,PROSTATE ADENOCARCINOMA,11,924.0,Alive
+TCGA-HC-7736-01,prostate adenocarcinoma,01,1103.0,Alive
+TCGA-G9-A9S7-01,PROSTATE ADENOCARCINOMA,01,,Alive
+TCGA-XK-AAIR-01,prostate adenocarcinoma,01,972.0,Alive
+TCGA-J4-AAU2-01,PROSTATE ADENOCARCINOMA,01,825.0,Alive
+TCGA-ZG-A8QY-01,PROSTATE ADENOCARCINOMA,01,,Alive
+TCGA-EJ-5524-01,PROSTATE ADENOCARCINOMA,01,,Alive
+TCGA-EJ-A6RC-01,prostate adenocarcinoma,01,873.0,Alive
+TCGA-EJ-7325-01,PROSTATE ADENOCARCINOMA,01,1070.0,Alive
+TCGA-EJ-A65E-01,prostate adenocarcinoma,01,417.0,Alive
+TCGA-HC-A9TH-01,PROSTATE ADENOCARCINOMA,01,,Alive
+TCGA-HC-7077-01,  Prostate Adenocarcinoma ,01,2115.0,Alive
+TCGA-KK-A8I9-01,prostate adenocarcinoma,01,--,Alive
+TCGA-ZG-A8QY-01,PROSTATE ADENOCARCINOMA,01,,Alive
+TCGA-HC-A4ZV-01,prostate adenocarcinoma,01,23.0,Alive
+TCGA-HC-A632-01,PROSTATE ADENOCARCINOMA,01,61.0,Alive
+TCGA-KK-A8IG-01,prostate adenocarcinoma,01,not reported,Alive
+TCGA-EJ-5502-01,  Prostate Adenocarcinoma ,01,1171.0,Alive
+TCGA-HC-A6AP-01,prostate adenocarcinoma,01,71.0,Alive
+TCGA-EJ-5504-01,prostate adenocarcinoma,01,1427.0,Alive
+TCGA-ZG-A9ND-01,prostate adenocarcinoma,01,410.0,Alive
+TCGA-KC-A7FE-01,prostate adenocarcinoma,01,352.0,Alive
+TCGA-EJ-7793-11,  Prostate Adenocarcinoma ,11,114.0,Alive
+TCGA-M7-A723-01,prostate adenocarcinoma,01,763.0,Alive
+TCGA-EJ-AB20-01,  Prostate Adenocarcinoma ,01,131.0,Alive
+TCGA-EJ-5519-01,PROSTATE ADENOCARCINOMA,01,1962.0,Alive
+TCGA-XJ-A9DI-01,PROSTATE ADENOCARCINOMA,01,1461.0,Alive
+TCGA-HC-7819-01,PROSTATE ADENOCARCINOMA,01,543.0,Alive
+TCGA-HC-7075-01,prostate adenocarcinoma,01,601.0,Alive
+TCGA-VP-A879-01,  Prostate Adenocarcinoma ,01,728.0,Dead
+TCGA-EJ-7791-01,prostate adenocarcinoma,01,1118.0,Alive
+TCGA-CH-5763-01,prostate adenocarcinoma,01,365.0,Alive
+TCGA-HC-A6AL-01,prostate adenocarcinoma,01,67.0,Alive
+TCGA-CH-5791-01,prostate adenocarcinoma,01,1004.0,Alive
+TCGA-KK-A6E0-01,  Prostate Adenocarcinoma ,01,1483.0,Alive
+TCGA-2A-AAYF-01,prostate adenocarcinoma,01,1364.0,Alive
+TCGA-J4-AATZ-01,  Prostate Adenocarcinoma ,01,412.0,Alive
+TCGA-KK-A8I7-01,  Prostate Adenocarcinoma ,01,2002.0,Alive
+TCGA-J4-A83I-01,prostate adenocarcinoma,01,685.0,Alive
+TCGA-YL-A8SP-01,PROSTATE ADENOCARCINOMA,01,2366.0,Alive
+TCGA-EJ-7312-01,PROSTATE ADENOCARCINOMA,01,1099.0,Alive
+TCGA-CH-5750-01,PROSTATE ADENOCARCINOMA,01,396.0,Alive
+TCGA-J4-A83K-01,PROSTATE ADENOCARCINOMA,01,328.0,Alive
+TCGA-J4-A67S-01,  Prostate Adenocarcinoma ,01,833.0,Alive
+TCGA-HC-7232-01,  Prostate Adenocarcinoma ,01,1161.0,Alive
+TCGA-FC-A66V-01,  Prostate Adenocarcinoma ,01,524.0,Alive
+TCGA-YL-A8HL-01,PROSTATE ADENOCARCINOMA,01,1565.0,Alive
+TCGA-G9-6363-11,PROSTATE ADENOCARCINOMA,11,1378.0,Alive
+TCGA-YL-A9WX-01,  Prostate Adenocarcinoma ,01,1518.0,Alive
+TCGA-ZG-A9L1-01,prostate adenocarcinoma,01,1302.0,Alive
+TCGA-KK-A8IK-01,  Prostate Adenocarcinoma ,01,2052.0,Alive
+TCGA-G9-6362-01,  Prostate Adenocarcinoma ,01,,Alive
+TCGA-G9-6348-11,  Prostate Adenocarcinoma ,11,1515.0,Alive
+TCGA-EJ-5497-01,prostate adenocarcinoma,01,405.0,Alive
+TCGA-HI-7168-01,prostate adenocarcinoma,01,--,Alive
+TCGA-G9-6384-01,PROSTATE ADENOCARCINOMA,01,765.0,Alive
+TCGA-KK-A8II-01,PROSTATE ADENOCARCINOMA,01,3467.0,Dead
+TCGA-M7-A721-01,  Prostate Adenocarcinoma ,01,400.0,Alive
+TCGA-HC-7233-01,PROSTATE ADENOCARCINOMA,01,not reported,Alive
+TCGA-ZG-A8QW-01,prostate adenocarcinoma,01,94.0,Alive
+TCGA-HC-7747-01,  Prostate Adenocarcinoma ,01,748.0,Alive
+TCGA-G9-6494-01,  Prostate Adenocarcinoma ,01,1771.0,Alive
+TCGA-EJ-8472-01,  Prostate Adenocarcinoma ,01,756.0,Alive
+TCGA-CH-5769-11,PROSTATE ADENOCARCINOMA,11,62.0,Alive
+TCGA-J4-AATV-01,prostate adenocarcinoma,01,553.0,Alive
+TCGA-EJ-8468-01,PROSTATE ADENOCARCINOMA,01,2347.0,Alive
+TCGA-V1-A9OY-01,prostate adenocarcinoma,01,1067.0,Alive
+TCGA-J9-A52D-01,PROSTATE ADENOCARCINOMA,01,212.0,Alive
+TCGA-EJ-7330-01,PROSTATE ADENOCARCINOMA,01,not reported,Alive
+TCGA-VN-A88N-01,prostate adenocarcinoma,01,766.0,Alive
+TCGA-EJ-7785-01,PROSTATE ADENOCARCINOMA,01,1177.0,Alive
+TCGA-EJ-5505-01,  Prostate Adenocarcinoma ,01,922.0,Alive
+TCGA-V1-A9O9-01,  Prostate Adenocarcinoma ,01,2870.0,Alive
+TCGA-XK-AAJA-01,  Prostate Adenocarcinoma ,01,930.0,Alive
+TCGA-G9-6373-01,  Prostate Adenocarcinoma ,01,811.0,Alive
+TCGA-VN-A88P-01,PROSTATE ADENOCARCINOMA,01,1260.0,Alive
+TCGA-EJ-5507-01,prostate adenocarcinoma,01,1457.0,Alive
+TCGA-KC-A7F6-01,prostate adenocarcinoma,01,263.0,Alive
+TCGA-CH-5768-01,PROSTATE ADENOCARCINOMA,01,731.0,Alive
+TCGA-QU-A6IP-01,PROSTATE ADENOCARCINOMA,01,2620.0,Alive
+TCGA-EJ-7115-01,  Prostate Adenocarcinoma ,01,2687.0,Alive
+TCGA-EJ-7788-01,  Prostate Adenocarcinoma ,01,859.0,Alive
+TCGA-G9-6499-11,prostate adenocarcinoma,11,not reported,Alive
+TCGA-XK-AAIW-01,PROSTATE ADENOCARCINOMA,01,1218.0,Alive
+TCGA-EJ-A46I-01,prostate adenocarcinoma,01,668.0,Alive
+TCGA-ZG-A9L9-01,  Prostate Adenocarcinoma ,01,617.0,Alive
+TCGA-V1-A8MJ-01,prostate adenocarcinoma,01,1791.0,Alive
+TCGA-HC-7745-01,prostate adenocarcinoma,01,721.0,Alive
+TCGA-J4-A67N-01,prostate adenocarcinoma,01,937.0,Alive
+TCGA-G9-6356-01,PROSTATE ADENOCARCINOMA,01,1434.0,Alive
+TCGA-KK-A8I6-01,prostate adenocarcinoma,01,--,Alive
+TCGA-CH-5764-01,  Prostate Adenocarcinoma ,01,31.0,Alive
+TCGA-EJ-A65B-01,  Prostate Adenocarcinoma ,01,710.0,Alive
+TCGA-HC-7749-01,prostate adenocarcinoma,01,724.0,Alive
+TCGA-YL-A8SH-01,PROSTATE ADENOCARCINOMA,01,--,Dead
+TCGA-XQ-A8TA-01,  Prostate Adenocarcinoma ,01,146.0,Dead
+TCGA-KK-A7AZ-01,  Prostate Adenocarcinoma ,01,1519.0,Alive
+TCGA-HC-7738-01,PROSTATE ADENOCARCINOMA,01,964.0,Alive
+TCGA-G9-6363-01,PROSTATE ADENOCARCINOMA,01,1378.0,Alive
+TCGA-KK-A7B2-01,  Prostate Adenocarcinoma ,01,1099.0,Alive
+TCGA-V1-A8ML-01,PROSTATE ADENOCARCINOMA,01,448.0,Alive
+TCGA-KK-A59V-01,  Prostate Adenocarcinoma ,01,3440.0,Alive
+TCGA-EJ-5495-01,  Prostate Adenocarcinoma ,01,1760.0,Alive
+TCGA-G9-6332-01,PROSTATE ADENOCARCINOMA,01,2657.0,Alive
+TCGA-CH-5794-01,PROSTATE ADENOCARCINOMA,01,882.0,Alive
+TCGA-HC-A6AN-01,  Prostate Adenocarcinoma ,01,49.0,Alive
+TCGA-YL-A8HO-01,  Prostate Adenocarcinoma ,01,2304.0,Alive
+TCGA-G9-A9S4-01,  Prostate Adenocarcinoma ,01,906.0,Alive
+TCGA-G9-6496-01,PROSTATE ADENOCARCINOMA,01,1726.0,Alive
+TCGA-KC-A4BR-01,PROSTATE ADENOCARCINOMA,01,1349.0,Alive
+TCGA-V1-A8MK-01,  Prostate Adenocarcinoma ,01,508.0,Alive
+TCGA-FC-A4JI-01,PROSTATE ADENOCARCINOMA,01,877.0,Alive
+TCGA-XJ-A83F-01,PROSTATE ADENOCARCINOMA,01,1127.0,Alive
+TCGA-EJ-AB27-01,PROSTATE ADENOCARCINOMA,01,145.0,Alive
+TCGA-EJ-7793-01,PROSTATE ADENOCARCINOMA,01,114.0,Alive
+TCGA-EJ-5522-01,  Prostate Adenocarcinoma ,01,2079.0,Alive
+TCGA-YL-A8SA-01,  Prostate Adenocarcinoma ,01,512.0,Alive
+TCGA-KC-A7FA-01,  Prostate Adenocarcinoma ,01,598.0,Alive
+TCGA-EJ-7125-01,prostate adenocarcinoma,01,2850.0,Alive
+TCGA-CH-5766-01,prostate adenocarcinoma,01,31.0,Alive
+TCGA-G9-6342-11,prostate adenocarcinoma,11,not reported,Alive
+TCGA-EJ-5506-01,PROSTATE ADENOCARCINOMA,01,1381.0,Alive
+TCGA-EJ-7797-11,prostate adenocarcinoma,11,983.0,Alive
+TCGA-J4-A67O-01,  Prostate Adenocarcinoma ,01,839.0,Alive
+TCGA-G9-6339-01,prostate adenocarcinoma,01,2551.0,Alive
+TCGA-EJ-A8FU-01,prostate adenocarcinoma,01,138.0,Alive
+TCGA-KK-A8I4-01,  Prostate Adenocarcinoma ,01,2259.0,Alive
+TCGA-2A-AAYU-01,PROSTATE ADENOCARCINOMA,01,615.0,Alive
+TCGA-YL-A8HJ-01,prostate adenocarcinoma,01,1611.0,Alive
+TCGA-YL-A8SH-01,PROSTATE ADENOCARCINOMA,01,--,Dead
+TCGA-EJ-7794-11,PROSTATE ADENOCARCINOMA,11,1306.0,Alive
+TCGA-HC-7740-11,  Prostate Adenocarcinoma ,11,717.0,Alive
+TCGA-V1-A9Z9-01,prostate adenocarcinoma,01,540.0,Alive
+TCGA-V1-A9OX-01,PROSTATE ADENOCARCINOMA,01,,Alive
+TCGA-G9-7519-01,  Prostate Adenocarcinoma ,01,849.0,Alive
+TCGA-EJ-7328-01,  Prostate Adenocarcinoma ,01,842.0,Alive
+TCGA-EJ-7783-01,prostate adenocarcinoma,01,787.0,Alive
+TCGA-J9-A8CL-01,PROSTATE ADENOCARCINOMA,01,405.0,Alive
+TCGA-CH-5767-01,  Prostate Adenocarcinoma ,01,458.0,Alive
+TCGA-CH-5739-01,prostate adenocarcinoma,01,671.0,Alive
+TCGA-HC-A6HX-01,prostate adenocarcinoma,01,38.0,Alive
+TCGA-YL-A8SR-01,  Prostate Adenocarcinoma ,01,273.0,Alive
+TCGA-HC-7738-11,prostate adenocarcinoma,11,964.0,Alive
+TCGA-CH-5761-01,  Prostate Adenocarcinoma ,01,28.0,Alive
+TCGA-HC-A9TH-01,PROSTATE ADENOCARCINOMA,01,,Alive
+TCGA-EJ-7318-01,prostate adenocarcinoma,01,not reported,Alive
+TCGA-CH-5746-01,prostate adenocarcinoma,01,731.0,Alive
+TCGA-EJ-7784-11,PROSTATE ADENOCARCINOMA,11,781.0,Alive
+TCGA-HC-7820-01,prostate adenocarcinoma,01,--,Alive
+TCGA-G9-6343-01,PROSTATE ADENOCARCINOMA,01,2450.0,Alive
+TCGA-G9-6371-01,prostate adenocarcinoma,01,1226.0,Alive
+TCGA-EJ-A46F-01,prostate adenocarcinoma,01,783.0,Alive
+TCGA-EJ-5509-01,PROSTATE ADENOCARCINOMA,01,1464.0,Alive
+TCGA-HC-7821-01,  Prostate Adenocarcinoma ,01,956.0,Alive
+TCGA-V1-A8MM-01,prostate adenocarcinoma,01,1195.0,Alive
+TCGA-KK-A8I5-01,PROSTATE ADENOCARCINOMA,01,3096.0,Alive
+TCGA-HC-A6AS-01,PROSTATE ADENOCARCINOMA,01,44.0,Alive
+TCGA-EJ-7785-11,prostate adenocarcinoma,11,1177.0,Alive
+TCGA-Y6-A9XI-01,  Prostate Adenocarcinoma ,01,526.0,Alive
+TCGA-EJ-A65J-01,prostate adenocarcinoma,01,451.0,Alive
+TCGA-EJ-7328-11,PROSTATE ADENOCARCINOMA,11,842.0,Alive
+TCGA-QU-A6IN-01,prostate adenocarcinoma,01,4264.0,Alive
+TCGA-EJ-7321-11,prostate adenocarcinoma,11,824.0,Alive
+TCGA-KK-A6E4-01,PROSTATE ADENOCARCINOMA,01,3502.0,Dead
+TCGA-HC-7078-01,PROSTATE ADENOCARCINOMA,01,1985.0,Alive
+TCGA-ZG-A9LU-01,prostate adenocarcinoma,01,579.0,Alive
+TCGA-YL-A8SI-01,prostate adenocarcinoma,01,1614.0,Alive
+TCGA-J4-A83N-01,PROSTATE ADENOCARCINOMA,01,992.0,Alive
+TCGA-G9-7509-01,PROSTATE ADENOCARCINOMA,01,1610.0,Alive
+TCGA-V1-A9OA-01,PROSTATE ADENOCARCINOMA,01,636.0,Alive
+TCGA-CH-5737-01,  Prostate Adenocarcinoma ,01,91.0,Alive
+TCGA-EJ-7315-11,  Prostate Adenocarcinoma ,11,1008.0,Alive
+TCGA-G9-7510-01,prostate adenocarcinoma,01,1185.0,Alive
+TCGA-J4-A6G3-01,  Prostate Adenocarcinoma ,01,849.0,Alive
+TCGA-EJ-7786-01,prostate adenocarcinoma,01,1096.0,Alive
+TCGA-EJ-7794-01,prostate adenocarcinoma,01,1306.0,Alive
+TCGA-G9-6379-01,  Prostate Adenocarcinoma ,01,1778.0,Alive
+TCGA-YL-A8HK-01,  Prostate Adenocarcinoma ,01,1491.0,Alive
+TCGA-KK-A8IM-01,prostate adenocarcinoma,01,1915.0,Alive
+TCGA-EJ-A8FO-01,prostate adenocarcinoma,01,282.0,Alive
+TCGA-CH-5741-01,PROSTATE ADENOCARCINOMA,01,395.0,Alive
+TCGA-J9-A52B-01,prostate adenocarcinoma,01,422.0,Alive
+TCGA-ZG-A9NI-01,  Prostate Adenocarcinoma ,01,132.0,Alive
+TCGA-V1-A8WL-01,PROSTATE ADENOCARCINOMA,01,1948.0,Alive
+TCGA-CH-5748-01,  Prostate Adenocarcinoma ,01,31.0,Alive
+TCGA-KK-A7AQ-01,PROSTATE ADENOCARCINOMA,01,1610.0,Alive
+TCGA-G9-6369-01,  Prostate Adenocarcinoma ,01,,Alive
+TCGA-YL-A8HM-01,prostate adenocarcinoma,01,1482.0,Alive
+TCGA-ZG-A9M4-01,prostate adenocarcinoma,01,547.0,Alive
+TCGA-HC-8266-01,  Prostate Adenocarcinoma ,01,473.0,Alive
+TCGA-KK-A7AP-01,  Prostate Adenocarcinoma ,01,196.0,Alive
+TCGA-EJ-A46E-01,PROSTATE ADENOCARCINOMA,01,524.0,Alive
+TCGA-G9-6338-01,PROSTATE ADENOCARCINOMA,01,2028.0,Alive
+TCGA-QU-A6IO-01,  Prostate Adenocarcinoma ,01,3716.0,Alive
+TCGA-HC-7212-01,prostate adenocarcinoma,01,870.0,Alive
+TCGA-KK-A7B4-01,prostate adenocarcinoma,01,987.0,Alive
+TCGA-XK-AAJP-01,PROSTATE ADENOCARCINOMA,01,1259.0,Alive
+TCGA-EJ-7782-01,PROSTATE ADENOCARCINOMA,01,1167.0,Alive
+TCGA-HC-7752-01,PROSTATE ADENOCARCINOMA,01,782.0,Alive
+TCGA-HC-8258-11,  Prostate Adenocarcinoma ,11,847.0,Alive
+TCGA-ZG-A9KY-01,  Prostate Adenocarcinoma ,01,130.0,Alive
+TCGA-EJ-7317-11,PROSTATE ADENOCARCINOMA,11,771.0,Alive
+TCGA-V1-A9Z7-01,  Prostate Adenocarcinoma ,01,--,Alive
+TCGA-EJ-5496-01,PROSTATE ADENOCARCINOMA,01,,Alive
+TCGA-EJ-7123-01,PROSTATE ADENOCARCINOMA,01,2572.0,Alive
+TCGA-M7-A722-01,PROSTATE ADENOCARCINOMA,01,1060.0,Alive
+TCGA-EJ-A8FS-01,PROSTATE ADENOCARCINOMA,01,266.0,Alive
+TCGA-XJ-A9DX-01,PROSTATE ADENOCARCINOMA,01,973.0,Alive
+TCGA-HC-7820-01,prostate adenocarcinoma,01,--,Alive
+TCGA-G9-6377-01,PROSTATE ADENOCARCINOMA,01,958.0,Alive
+TCGA-HC-7080-01,  Prostate Adenocarcinoma ,01,1106.0,Alive
+TCGA-KK-A6E5-01,prostate adenocarcinoma,01,2073.0,Alive
+TCGA-G9-7522-01,prostate adenocarcinoma,01,1078.0,Alive
+TCGA-H9-A6BY-01,PROSTATE ADENOCARCINOMA,01,112.0,Alive
+TCGA-HC-7752-11,PROSTATE ADENOCARCINOMA,11,782.0,Alive
+TCGA-YL-A9WH-01,PROSTATE ADENOCARCINOMA,01,427.0,Alive
+TCGA-EJ-5499-01,PROSTATE ADENOCARCINOMA,01,1415.0,Alive
+TCGA-XJ-A9DQ-01,  Prostate Adenocarcinoma ,01,91.0,Alive
+TCGA-KK-A8I6-01,prostate adenocarcinoma,01,--,Alive
+TCGA-TP-A8TV-01,prostate adenocarcinoma,01,610.0,Alive
+TCGA-G9-6342-11,prostate adenocarcinoma,11,not reported,Alive
+TCGA-HC-8258-01,prostate adenocarcinoma,01,847.0,Alive
+TCGA-VP-A878-01,prostate adenocarcinoma,01,3130.0,Alive
+TCGA-J9-A52C-01,  Prostate Adenocarcinoma ,01,not reported,Alive
+TCGA-EJ-7786-11,  Prostate Adenocarcinoma ,11,1096.0,Alive
+TCGA-HC-7744-01,PROSTATE ADENOCARCINOMA,01,531.0,Alive
+TCGA-KC-A7F3-01,  Prostate Adenocarcinoma ,01,665.0,Alive
+TCGA-EJ-7783-11,  Prostate Adenocarcinoma ,11,787.0,Alive
+TCGA-EJ-7314-11,prostate adenocarcinoma,11,1150.0,Alive
+TCGA-V1-A8WS-01,  Prostate Adenocarcinoma ,01,474.0,Alive
+TCGA-YL-A9WL-01,prostate adenocarcinoma,01,740.0,Alive
+TCGA-XJ-A83G-01,prostate adenocarcinoma,01,1461.0,Alive
+TCGA-HC-7081-01,PROSTATE ADENOCARCINOMA,01,1136.0,Alive
+TCGA-J4-A67L-01,  Prostate Adenocarcinoma ,01,770.0,Alive
+TCGA-G9-6356-11,prostate adenocarcinoma,11,1434.0,Alive
+TCGA-YL-A9WJ-01,  Prostate Adenocarcinoma ,01,1855.0,Dead
+TCGA-J4-A67R-01,prostate adenocarcinoma,01,910.0,Alive
+TCGA-KK-A7AW-01,PROSTATE ADENOCARCINOMA,01,not reported,Alive
+TCGA-YL-A8SC-01,prostate adenocarcinoma,01,1261.0,Alive
+TCGA-KK-A8IJ-01,prostate adenocarcinoma,01,not reported,Alive
+TCGA-J4-A67Q-01,PROSTATE ADENOCARCINOMA,01,975.0,Alive
+TCGA-G9-7523-01,  Prostate Adenocarcinoma ,01,857.0,Alive
+TCGA-HC-7740-01,prostate adenocarcinoma,01,717.0,Alive
+TCGA-EJ-A65M-01,  Prostate Adenocarcinoma ,01,230.0,Alive
+TCGA-EJ-7330-01,PROSTATE ADENOCARCINOMA,01,not reported,Alive
+TCGA-EJ-5516-01,PROSTATE ADENOCARCINOMA,01,1889.0,Alive
+TCGA-HC-7818-01,  Prostate Adenocarcinoma ,01,938.0,Alive
+TCGA-V1-A9O5-06,PROSTATE ADENOCARCINOMA,06,1932.0,Alive
+TCGA-HC-7748-01,PROSTATE ADENOCARCINOMA,01,792.0,Alive
+TCGA-V1-A8WW-01,prostate adenocarcinoma,01,1078.0,Alive
+TCGA-2A-A8VL-01,PROSTATE ADENOCARCINOMA,01,621.0,Alive
+TCGA-YL-A9WK-01,PROSTATE ADENOCARCINOMA,01,,Alive
+TCGA-EJ-A7NH-01,prostate adenocarcinoma,01,--,Alive
+TCGA-XK-AAJU-01,PROSTATE ADENOCARCINOMA,01,1576.0,Alive
+TCGA-EJ-7321-01,  Prostate Adenocarcinoma ,01,824.0,Alive
+TCGA-EJ-A6RA-01,PROSTATE ADENOCARCINOMA,01,--,Alive
+TCGA-YL-A8S8-01,PROSTATE ADENOCARCINOMA,01,1890.0,Alive
+TCGA-FC-7961-01,  Prostate Adenocarcinoma ,01,469.0,Alive
+TCGA-G9-6366-01,PROSTATE ADENOCARCINOMA,01,1947.0,Alive
+TCGA-V1-A8WN-01,prostate adenocarcinoma,01,924.0,Alive
+TCGA-J9-A8CP-01,PROSTATE ADENOCARCINOMA,01,386.0,Alive
+TCGA-CH-5771-01,  Prostate Adenocarcinoma ,01,396.0,Alive
+TCGA-TP-A8TT-01,PROSTATE ADENOCARCINOMA,01,526.0,Alive
+TCGA-G9-6384-11,  Prostate Adenocarcinoma ,11,765.0,Alive
+TCGA-J4-8200-01,PROSTATE ADENOCARCINOMA,01,1218.0,Alive
+TCGA-EJ-7331-11,  Prostate Adenocarcinoma ,11,742.0,Alive
+TCGA-G9-6353-01,prostate adenocarcinoma,01,1542.0,Alive
+TCGA-J9-A8CN-01,  Prostate Adenocarcinoma ,01,1237.0,Alive
+TCGA-YL-A8SL-01,prostate adenocarcinoma,01,987.0,Alive
+TCGA-J4-A83L-01,prostate adenocarcinoma,01,720.0,Alive
+TCGA-CH-5790-01,PROSTATE ADENOCARCINOMA,01,974.0,Alive
+TCGA-V1-A8MF-01,  Prostate Adenocarcinoma ,01,1449.0,Alive
+TCGA-CH-5761-11,PROSTATE ADENOCARCINOMA,11,28.0,Alive
+TCGA-CH-5767-11,prostate adenocarcinoma,11,458.0,Alive
+TCGA-EJ-7314-01,prostate adenocarcinoma,01,1150.0,Alive
+TCGA-G9-A9S0-01,prostate adenocarcinoma,01,791.0,Dead
+TCGA-Y6-A8TL-01,prostate adenocarcinoma,01,992.0,Alive
+TCGA-HC-7230-01,PROSTATE ADENOCARCINOMA,01,1001.0,Alive
+TCGA-HC-8265-01,prostate adenocarcinoma,01,483.0,Alive
+TCGA-V1-A8MU-01,  Prostate Adenocarcinoma ,01,1876.0,Alive
+TCGA-HC-A8CY-01,  Prostate Adenocarcinoma ,01,290.0,Alive
+TCGA-VP-A87J-01,  Prostate Adenocarcinoma ,01,1774.0,Alive
+TCGA-ZG-A9MC-01,  Prostate Adenocarcinoma ,01,455.0,Alive
+TCGA-EJ-A6RA-01,PROSTATE ADENOCARCINOMA,01,--,Alive
+TCGA-EJ-5494-01,prostate adenocarcinoma,01,1477.0,Alive
+TCGA-VP-A87K-01,PROSTATE ADENOCARCINOMA,01,1306.0,Alive
+TCGA-CH-5765-01,PROSTATE ADENOCARCINOMA,01,700.0,Alive
+TCGA-EJ-7318-01,prostate adenocarcinoma,01,not reported,Alive
+TCGA-KK-A8IF-01,PROSTATE ADENOCARCINOMA,01,804.0,Alive
+TCGA-VN-A88R-01,  Prostate Adenocarcinoma ,01,784.0,Alive
+TCGA-KK-A6E7-01,PROSTATE ADENOCARCINOMA,01,2760.0,Alive
+TCGA-KK-A59Y-01,prostate adenocarcinoma,01,1968.0,Alive
+TCGA-VN-A88O-01,  Prostate Adenocarcinoma ,01,481.0,Alive
+TCGA-YL-A9WI-01,prostate adenocarcinoma,01,1623.0,Alive
+TCGA-EJ-5532-01,PROSTATE ADENOCARCINOMA,01,1828.0,Alive
+TCGA-KK-A7B0-01,PROSTATE ADENOCARCINOMA,01,1329.0,Alive
+TCGA-M7-A724-01,  Prostate Adenocarcinoma ,01,889.0,Alive
+TCGA-EJ-A46H-01,PROSTATE ADENOCARCINOMA,01,724.0,Alive
+TCGA-HC-8262-11,  Prostate Adenocarcinoma ,11,679.0,Alive
+TCGA-EJ-7327-11,  Prostate Adenocarcinoma ,11,923.0,Alive
+TCGA-ZG-A9L2-01,  Prostate Adenocarcinoma ,01,1154.0,Alive
+TCGA-G9-6499-01,  Prostate Adenocarcinoma ,01,1543.0,Alive
+TCGA-EJ-7123-11,  Prostate Adenocarcinoma ,11,2572.0,Alive
+TCGA-KK-A7B3-01,PROSTATE ADENOCARCINOMA,01,899.0,Alive
+TCGA-CH-5788-01,prostate adenocarcinoma,01,821.0,Alive
+TCGA-G9-6362-01,  Prostate Adenocarcinoma ,01,,Alive
+TCGA-EJ-5510-01,prostate adenocarcinoma,01,1887.0,Alive
+TCGA-V1-A9O7-01,prostate adenocarcinoma,01,2499.0,Alive
+TCGA-KK-A7AV-01,  Prostate Adenocarcinoma ,01,822.0,Alive
+TCGA-HC-7079-01,prostate adenocarcinoma,01,1184.0,Alive
+TCGA-HC-8261-01,prostate adenocarcinoma,01,546.0,Alive
+TCGA-ZG-A9L6-01,prostate adenocarcinoma,01,687.0,Alive
+TCGA-G9-6364-01,prostate adenocarcinoma,01,1198.0,Alive
+TCGA-EJ-5517-01,prostate adenocarcinoma,01,1889.0,Alive
+TCGA-HC-7210-01,  Prostate Adenocarcinoma ,01,868.0,Alive
+TCGA-HC-7747-11,  Prostate Adenocarcinoma ,11,748.0,Alive
+TCGA-G9-6370-01,PROSTATE ADENOCARCINOMA,01,1156.0,Alive
+TCGA-4L-AA1F-01,prostate adenocarcinoma,01,350.0,Alive
+TCGA-EJ-A46B-01,prostate adenocarcinoma,01,657.0,Alive
+TCGA-CH-5792-01,  Prostate Adenocarcinoma ,01,91.0,Alive
+TCGA-EJ-5515-01,  Prostate Adenocarcinoma ,01,1832.0,Alive
+TCGA-G9-6498-01,prostate adenocarcinoma,01,1952.0,Alive
+TCGA-YL-A8SQ-01,prostate adenocarcinoma,01,2083.0,Alive
+TCGA-QU-A6IM-01,PROSTATE ADENOCARCINOMA,01,1247.0,Alive
+TCGA-KK-A59X-01,PROSTATE ADENOCARCINOMA,01,2535.0,Alive
+TCGA-ZG-A9LB-01,PROSTATE ADENOCARCINOMA,01,583.0,Alive
+TCGA-G9-6336-01,  Prostate Adenocarcinoma ,01,2068.0,Alive
+TCGA-EJ-7792-01,  Prostate Adenocarcinoma ,01,1396.0,Alive
+TCGA-VN-A943-01,PROSTATE ADENOCARCINOMA,01,496.0,Alive
+TCGA-HC-7742-11,PROSTATE ADENOCARCINOMA,11,938.0,Alive
+TCGA-EJ-A65G-01,PROSTATE ADENOCARCINOMA,01,666.0,Alive
+TCGA-X4-A8KQ-01,PROSTATE ADENOCARCINOMA,01,1383.0,Alive
+TCGA-J4-A6G1-01,prostate adenocarcinoma,01,769.0,Alive
+TCGA-VP-A87C-01,prostate adenocarcinoma,01,1690.0,Alive
+TCGA-EJ-A65F-01,  Prostate Adenocarcinoma ,01,560.0,Alive
+TCGA-EJ-5518-01,  Prostate Adenocarcinoma ,01,2118.0,Alive
+TCGA-EJ-7315-01,  Prostate Adenocarcinoma ,01,1008.0,Alive
+TCGA-EJ-7327-01,prostate adenocarcinoma,01,923.0,Alive
+TCGA-HC-7819-11,prostate adenocarcinoma,11,543.0,Alive
+TCGA-WW-A8ZI-01,  Prostate Adenocarcinoma ,01,449.0,Alive
+TCGA-HC-A9TE-01,  Prostate Adenocarcinoma ,01,587.0,Alive
+TCGA-VP-A87E-01,PROSTATE ADENOCARCINOMA,01,2037.0,Alive
+TCGA-VN-A88Q-01,prostate adenocarcinoma,01,1366.0,Alive
+TCGA-KK-A6E2-01,prostate adenocarcinoma,01,5024.0,Alive
+TCGA-CH-5743-01,prostate adenocarcinoma,01,425.0,Alive
+TCGA-2A-A8VV-01,PROSTATE ADENOCARCINOMA,01,671.0,Alive
+TCGA-HC-8256-01,  Prostate Adenocarcinoma ,01,860.0,Alive
+TCGA-V1-A8X3-01,  Prostate Adenocarcinoma ,01,202.0,Alive
+TCGA-J4-A67K-01,prostate adenocarcinoma,01,not reported,Alive
+TCGA-G9-6333-01,prostate adenocarcinoma,01,2465.0,Alive
+TCGA-EJ-A7NF-01,  Prostate Adenocarcinoma ,01,250.0,Alive
+TCGA-SU-A7E7-01,prostate adenocarcinoma,01,,Alive
+TCGA-V1-A9OL-01,PROSTATE ADENOCARCINOMA,01,1913.0,Alive
+TCGA-EJ-A7NJ-01,  Prostate Adenocarcinoma ,01,197.0,Alive
+TCGA-VP-A875-01,  Prostate Adenocarcinoma ,01,2309.0,Alive
+TCGA-CH-5753-01,PROSTATE ADENOCARCINOMA,01,31.0,Alive
+TCGA-HC-A631-01,  Prostate Adenocarcinoma ,01,54.0,Alive
+TCGA-J4-A83M-01,  Prostate Adenocarcinoma ,01,543.0,Alive
+TCGA-EJ-A8FO-11,  Prostate Adenocarcinoma ,11,282.0,Alive
+TCGA-XK-AAK1-01,prostate adenocarcinoma,01,not reported,Alive
+TCGA-G9-6362-11,  Prostate Adenocarcinoma ,11,1443.0,Alive
+TCGA-EJ-7782-11,prostate adenocarcinoma,11,1167.0,Alive
+TCGA-G9-6348-01,  Prostate Adenocarcinoma ,01,1515.0,Alive
+TCGA-HC-A6HY-01,  Prostate Adenocarcinoma ,01,134.0,Alive
+TCGA-VP-A872-01,prostate adenocarcinoma,01,--,Alive
+TCGA-VP-A876-01,PROSTATE ADENOCARCINOMA,01,3333.0,Alive
+TCGA-FC-A8O0-01,prostate adenocarcinoma,01,--,Alive
+TCGA-HI-7169-01,  Prostate Adenocarcinoma ,01,2684.0,Alive
+TCGA-EJ-A7NK-01,PROSTATE ADENOCARCINOMA,01,476.0,Alive
+TCGA-HC-7737-11,PROSTATE ADENOCARCINOMA,11,1090.0,Alive
+TCGA-V1-A9ZG-01,  Prostate Adenocarcinoma ,01,1517.0,Alive
+TCGA-KK-A8I8-01,PROSTATE ADENOCARCINOMA,01,967.0,Alive
+TCGA-EJ-A46D-01,  Prostate Adenocarcinoma ,01,626.0,Alive
+TCGA-YL-A8SO-01,  Prostate Adenocarcinoma ,01,3479.0,Alive
+TCGA-EJ-7218-01,  Prostate Adenocarcinoma ,01,2542.0,Alive
+TCGA-CH-5769-01,prostate adenocarcinoma,01,62.0,Alive
+TCGA-HC-8213-01,PROSTATE ADENOCARCINOMA,01,589.0,Alive
+TCGA-J9-A8CK-01,  Prostate Adenocarcinoma ,01,321.0,Alive
+TCGA-G9-6499-11,prostate adenocarcinoma,11,not reported,Alive
+TCGA-HC-A76X-01,prostate adenocarcinoma,01,150.0,Alive
+TCGA-V1-A9O5-01,prostate adenocarcinoma,01,1932.0,Alive
+TCGA-CH-5745-01,PROSTATE ADENOCARCINOMA,01,not reported,Alive
+TCGA-HC-7231-01,prostate adenocarcinoma,01,939.0,Alive
+TCGA-HC-7211-11,  Prostate Adenocarcinoma ,11,1221.0,Alive
+TCGA-G9-6342-01,  Prostate Adenocarcinoma ,01,1696.0,Alive
+TCGA-YL-A8SF-01,  Prostate Adenocarcinoma ,01,1373.0,Alive
+TCGA-HI-7171-01,prostate adenocarcinoma,01,1329.0,Dead
+TCGA-CH-5762-01,PROSTATE ADENOCARCINOMA,01,1339.0,Alive
+TCGA-HC-8260-11,prostate adenocarcinoma,11,686.0,Alive
+TCGA-G9-6333-11,PROSTATE ADENOCARCINOMA,11,2465.0,Alive
+TCGA-EJ-5526-01,  Prostate Adenocarcinoma ,01,--,Alive
+TCGA-MG-AAMC-01,prostate adenocarcinoma,01,173.0,Alive
