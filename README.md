@@ -3,9 +3,9 @@
 Year 3 Python capstone, worth 70 % of the module mark. Start with
 `00_start_here`.
 
-**Every notebook asks for your 6-digit registration number** — the
-number on Canvas and your student card. It looks up your gene and cancer
-type, so you never have to type them.
+**Every notebook asks for your Sussex username** — the start of your
+Sussex email, the one you log in with (e.g. `ab123`). It looks up your
+gene and cancer type, so you never have to type them.
 
 ## Option 1 — Google Colab (nothing to install)
 
